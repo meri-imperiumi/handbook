@@ -5,6 +5,7 @@
 - [ ] [[engine#Stopping the engine|Stop the engine]]
 - [ ] Install fenders as needed
 - [ ] Ensure adequate distance from pier by pulling the boat
+- [ ] Tie tiller to the pushpit
 - [ ] Stow flag
 - [ ] Stow boathooks
 - [ ] Stow [[sails#Parasailor|Parasailor]]
