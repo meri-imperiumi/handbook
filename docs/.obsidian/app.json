@@ -1,5 +1,6 @@
 {
   "showFrontmatter": true,
   "useTab": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "attachmentFolderPath": "assets"
 }
