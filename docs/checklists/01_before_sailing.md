@@ -3,7 +3,7 @@
 ## Preparation
 
 - [ ] Check [[weather|weather forecast]]
-- [ ] [[navigation|Plan route]] and set up in plotter
+- [ ] [[navigation#Planning a coastal/inland route|Plan route]] and set up in plotter
 - [ ] Decide [[sails#Sail plan|sail plan]]
 - [ ] Check freshwater tank level
 - [ ] Check diesel tank level
