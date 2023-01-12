@@ -65,3 +65,18 @@ The boat carries a deployable 300W [FLINsail](https://flin-solar.de). This is a 
 The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via a DC-DC charger).
 
 When the engine is running we get about 200W of charge into the house bank.
+
+### Shore power charger
+
+The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://www.victronenergy.com/inverters-chargers/multi-500-va) inverter-charger.
+
+The shore power connection is isolated with a galvanic isolator.
+
+## Monitoring
+
+The boat's electrical system can be monitored via:
+
+* [Victron VRM](https://vrm.victronenergy.com) remote monitoring system
+* [Electricity Grafana dashboard](http://lille-oe-pi.local:3000/d/6EmAzaA7k/electricity?orgId=1&refresh=30s) on board
+
+
