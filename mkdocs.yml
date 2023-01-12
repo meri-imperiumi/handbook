@@ -5,7 +5,7 @@ theme:
   name: material
   logo: assets/favicon.png
   homepage: https://lille-oe.de
-  favicon: assets/favicon.png
+  favicon: assets/boat.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -17,6 +17,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - navigation.footer
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/rss
+      link: https://lille-oe.de
 extra_css:
   - assets/extra.css
 markdown_extensions:
