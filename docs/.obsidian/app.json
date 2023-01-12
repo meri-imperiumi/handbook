@@ -1,4 +1,5 @@
 {
   "showFrontmatter": true,
-  "useTab": false
+  "useTab": false,
+  "showInlineTitle": false
 }

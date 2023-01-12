@@ -11,12 +11,8 @@
             "id": "3ea428c6308e909c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "checklists/Before sailing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -151,7 +147,8 @@
   },
   "active": "a49d66e8eb044f10",
   "lastOpenFiles": [
+    "checklists/before_sailing.md",
     "checklists/Before sailing.md",
-    "checklists/before_sailing.md"
+    "index.md"
   ]
 }
