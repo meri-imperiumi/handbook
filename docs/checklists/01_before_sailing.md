@@ -18,6 +18,7 @@
 * [ ] Ensure no debris on cabin surfaces
 * [ ] Prepare lifevests
 * [ ] Turn on VHF
+* [ ] Turn chartplotter tablet charging on
 * [ ] Remove engine frost guard (if using)
 * [ ] Ensure engine seacock is open
 
@@ -35,6 +36,9 @@
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Change shore lines to slip
 - [ ] Install flagpole
+- [ ] Remove winch covers
+- [ ] Remove instrument covers
+- [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Stow shore power cable
 - [ ] [[engine#Starting the engine|Start engine]], set RPMs to 1000 on neutral gear
 - [ ] Harbour departure briefing
