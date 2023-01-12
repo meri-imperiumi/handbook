@@ -2,6 +2,22 @@
 
 _Lille Ø_ runs both a 12V DC system and a 220V AC system, the latter powered by either shore power or an onboard inverter.
 
+The battery main switch is located under the navigation station bench.
+
+## Consumption
+
+Typical power consumption on the boat is around 1.2kWh per day in the summer months. In winter and shore power it ranges around 3-6kWh per day depending on how much the diesel heater and the [[engine]] frost guard need to run.
+
+The primary electrical consumers on the boat are:
+
+* Refrigerator
+* Engine frost guard
+* Diesel heater
+* Autopilot
+* Personal computers
+
+In situations where batteries are running low, it is a good idea to disable some or all of these.
+
 ## Storage
 
 The boat has two battery banks:
@@ -29,8 +45,6 @@ Each of these is connected to its own Victron SmartSolar charge controller.
 
 The boat carries a deployable 300W [FLINsail](https://flin-solar.de). This is a set of three panels that can be hoisted in the mast like a mainsail.
 
-**Note: The maximum wind speed for deploying the FLINsail is 18kt**
-
 #### Deploying the FLINsail
 
 * [ ] Attach the FLINsail bag on top of the boom
@@ -44,6 +58,10 @@ The boat carries a deployable 300W [FLINsail](https://flin-solar.de). This is a 
 * [ ] Turn the panels and the boom towards the sun
 * [ ] Get the solar MC4 cable from under the deck solar panel and attach to the connectors on the FLINsail
 
+**Note: The maximum wind speed for deploying the FLINsail is 18kt**
+
 ### Alternator
 
 The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via a DC-DC charger).
+
+When the engine is running we get about 200W of charge into the house bank.
