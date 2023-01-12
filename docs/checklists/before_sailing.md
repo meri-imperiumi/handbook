@@ -1,8 +1,9 @@
 # Before sailing
 
 ## Preparation
+
 - [ ] Check [[weather|weather forecast]]
-- [ ] Plan route and set up in plotter
+- [ ] [[navigation|Plan route]] and set up in plotter
 - [ ] Decide [[sails#Sail plan|sail plan]]
 - [ ] Check freshwater tank level
 - [ ] Check diesel tank level
@@ -17,6 +18,8 @@
 * [ ] Ensure no debris on cabin surfaces
 * [ ] Prepare lifevests
 * [ ] Turn on VHF
+* [ ] Remove engine frost guard (if using)
+* [ ] Ensure engine seacock is open
 
 ## On deck
 
@@ -26,14 +29,14 @@
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
 - [ ] Stow inner forestay if necessary
-- [ ] Set up Parasailor if planned to be used
+- [ ] [[sails#Setting up the Parasailor|Set up Parasailor]] if planned to be used
 - [ ] Remove headsail furler safety line
 - [ ] Remove mainsail sun cover
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Change shore lines to slip
 - [ ] Install flagpole
 - [ ] Stow shore power cable
-- [ ] Start engine, set RPMs to 1000 on neutral gear
+- [ ] [[engine#Starting the engine|Start engine]], set RPMs to 1000 on neutral gear
 - [ ] Harbour departure briefing
 - [ ] Set/remove fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit

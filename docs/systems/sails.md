@@ -1,5 +1,7 @@
 # Sails
 
+_Lille Ø_ is a bermuda sloop rigged with a removable inner forestay.
+
 ## Sail inventory
 
 _Lille Ø_ is equipped with the following sails:
