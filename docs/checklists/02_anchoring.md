@@ -1,6 +1,16 @@
 # Anchoring
 
-## Preparing to anchor
+_Lille Ø_ is equipped with three anchors:
+
+* **Rocna Vulcan 15** bow anchor with 40m of 8mm chain
+* **Bruce 15kg** stern anchor with 5m of 8mm chain and 45m of webbing line
+* **Fortress Fx-11** kedge anchor
+
+## Bow anchor
+
+Bow anchoring is used in most anchorages outside of Scandinavia.
+
+### Preparing to anchor
 
 - [ ] Check weather forecast and ensure that anchorage has appropriate protection
 - [ ] Check chart for appropriate depth and swinging room
@@ -11,7 +21,7 @@
 - [ ] Prepare appropriate anchor chain on deck (about 4✕ depth)
 - [ ] Prepare for setting up anchor alarm (log into Signal K etc)
 
-## Setting the anchor
+### Setting the anchor
 
 - [ ] Approach the anchoring spot slowly towards the wind
 - [ ] Stop the vessel
@@ -26,12 +36,19 @@
 - [ ] When setting anchor with engine, about 1500 RPM is a good number to reach
 - [ ] Pull up and reanchor if the anchor doesn't hold
 
-## After anchor is set
+### After anchor is set
 
 - [ ] Connect a snubber line to the anchor chain with a rolling hitch
 - [ ] Let out the snubber and chain until about 2-3m of snubber is out of the boat and cleat it
+- [ ] Set a chafe guard on the snubber
 - [ ] Let out about 2m more of chain so that it hangs loose and we're on the snubber
 - [ ] Hoist the anchor daymark
 - [ ] Turn anchor light on as required
 - [ ] Follow the [[03_after_sailing|after sailing]] checklist
 - [ ] Keep engine or the genoa ready for use in case of emergencies
+
+## Scandinavian mooring
+
+Scandinavian mooring is anchoring with the stern anchor and tying the bow to land.
+
+- [ ] TODO
