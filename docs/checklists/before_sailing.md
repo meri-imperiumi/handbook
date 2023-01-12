@@ -1,9 +1,9 @@
 # Before sailing
 
 ## Preparation
-- [ ] Check weather forecast
+- [ ] Check [[weather|weather forecast]]
 - [ ] Plan route and set up in plotter
-- [ ] Decide [[sails|sail plan]]
+- [ ] Decide [[sails#Sail plan|sail plan]]
 - [ ] Check freshwater tank level
 - [ ] Check diesel tank level
 - [ ] Check engine oil level
