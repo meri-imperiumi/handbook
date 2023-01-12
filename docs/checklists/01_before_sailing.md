@@ -26,7 +26,7 @@
 
 - [ ] Stow cockpit enclosure
 - [ ] Stow dinghy
-- [ ] Stow FLINsail
+- [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
 - [ ] Stow inner forestay if necessary

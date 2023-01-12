@@ -15,7 +15,7 @@
 - [ ] Install and tighten inner forestay
 - [ ] Coil and stow all lines
 - [ ] Plug in shore power if using
-- [ ] Deploy FLINsail unless on shore power or the winds are too strong
+- [ ] Deploy [[electrics#FLINsail|FLINsail]] unless on shore power or the winds are too strong
 - [ ] Move main halyard to the end of the boom unless used for FLINsail
 - [ ] If cold or rainy weather is expected, set up the cockpit enclosure
 - [ ] Deploy winch covers
