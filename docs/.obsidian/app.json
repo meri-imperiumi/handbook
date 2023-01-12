@@ -2,5 +2,6 @@
   "showFrontmatter": true,
   "useTab": false,
   "showInlineTitle": false,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true
 }
