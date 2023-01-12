@@ -22,6 +22,7 @@ _Lille Ø_ is equipped with the following sails:
 Whenever the boom is outside the cockpit it should be set up with a boom preventer. There are pre-installed preventer lines on the boom that can be used conveniently for this purpose.
 
 Setup is the following:
+
 - [ ] Release the preventer line (red or green) from pushpit
 - [ ] Attach preventer line block to the forward cleat
 - [ ] Unhook the on-boom preventer pennant and attach to the preventer line
