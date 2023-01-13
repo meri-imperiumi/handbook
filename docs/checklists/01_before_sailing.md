@@ -24,6 +24,7 @@
 
 ## On deck
 
+- [ ] Change all shore lines to slip
 - [ ] Stow cockpit enclosure
 - [ ] Stow dinghy
 - [ ] Stow [[electrics#FLINsail|FLINsail]]

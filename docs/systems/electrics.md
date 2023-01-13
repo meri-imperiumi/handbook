@@ -68,7 +68,7 @@ When the engine is running we get about 200W of charge into the house bank.
 
 ### Shore power charger
 
-The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://www.victronenergy.com/inverters-chargers/multi-500-va) inverter-charger.
+The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://www.victronenergy.com/inverters-chargers/multi-500-va) inverter-charger. Shore power cord is located in the anchor locker. It has a CEE plug. There is a CEE to Schuko adapter in the lazarette as needed.
 
 The shore power connection is isolated with a galvanic isolator.
 

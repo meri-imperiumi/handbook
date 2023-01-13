@@ -4,6 +4,7 @@
 
 - [ ] [[engine#Stopping the engine|Stop the engine]]
 - [ ] Install fenders as needed
+- [ ] Switch slip lines to tied shore lines. Keep slip lines as (loose)
 - [ ] Ensure adequate distance from pier by pulling the boat
 - [ ] Tie tiller to the pushpit
 - [ ] Stow flag
