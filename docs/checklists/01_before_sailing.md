@@ -16,7 +16,9 @@
 * [ ] Close heads seacock
 * [ ] Ensure all cabinets are closed
 * [ ] Ensure no debris on cabin surfaces
+* [ ] Lock saloon table
 * [ ] Prepare lifevests
+* [ ] Fill water bottles and place them in cockpit holder
 * [ ] Turn on VHF
 * [ ] Turn chartplotter tablet charging on
 * [ ] Remove engine frost guard (if using)
@@ -25,6 +27,7 @@
 ## On deck
 
 - [ ] Change all shore lines to slip
+- [ ] Remove unnecessary spring lines
 - [ ] Stow cockpit enclosure
 - [ ] Stow dinghy
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
@@ -37,10 +40,12 @@
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Change shore lines to slip
 - [ ] Install flagpole
+- [ ] Move boom to center and uncoil main sheet
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
 - [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Stow shore power cable
+- [ ] Check that inside team is ready
 - [ ] [[engine#Starting the engine|Start engine]], set RPMs to 1000 on neutral gear
 - [ ] Harbour departure briefing
 - [ ] Set/remove fenders as appropriate for the departure plan

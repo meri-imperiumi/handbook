@@ -19,7 +19,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Remove the safety shackle from anchor
 - [ ] Uncoil and prepare the anchor buoy line
 - [ ] Prepare appropriate anchor chain on deck (about 4✕ depth)
-- [ ] Prepare for setting up anchor alarm (log into Signal K etc)
+- [ ] Prepare for setting up anchor alarm (log [into Signal K](http://192.168.1.105/@signalk/freeboard-sk/) etc)
 
 ### Setting the anchor
 

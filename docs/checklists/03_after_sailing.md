@@ -6,6 +6,7 @@
 - [ ] Install fenders as needed
 - [ ] Switch slip lines to tied shore lines. Keep slip lines as (loose)
 - [ ] Ensure adequate distance from pier by pulling the boat
+- [ ] Add chafe guards to lines as needed
 - [ ] Tie tiller to the pushpit
 - [ ] Stow flag
 - [ ] Stow boathooks
