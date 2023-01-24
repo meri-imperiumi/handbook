@@ -49,6 +49,7 @@ The boat carries a deployable 300W [FLINsail](https://flin-solar.de). This is a 
 
 * [ ] Attach the FLINsail bag on top of the boom
 * [ ] Open the bag and attach the main halyard to the hook labeled _Head_
+* [ ] Pull main halyard so that the lines coming from the _Head_ hook are lifted
 * [ ] Attach the hook labeled _Clew_ to the end of the boom
 * [ ] Attach the hook labeled _Tack_ to the soft shackle hanging under the boom gooseneck
 * [ ] Pull main halyard until first panel is over the sail entry gate
