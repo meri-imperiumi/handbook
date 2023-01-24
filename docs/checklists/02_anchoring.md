@@ -41,7 +41,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Connect a snubber line to the anchor chain with a rolling hitch
 - [ ] Let out the snubber and chain until about 2-3m of snubber is out of the boat and cleat it
 - [ ] Set a chafe guard on the snubber
-- [ ] Let out about 2m more of chain so that it hangs loose and we're on the snubber
+- [ ] Let out about 3m more of chain so that it hangs loose and we're on the snubber
 - [ ] Hoist the anchor daymark
 - [ ] Turn anchor light on as required
 - [ ] Follow the [[03_after_sailing|after sailing]] checklist

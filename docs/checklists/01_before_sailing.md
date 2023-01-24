@@ -4,6 +4,7 @@
 
 - [ ] Check [[weather|weather forecast]]
 - [ ] [[navigation#Planning a coastal/inland route|Plan route]] and set up in plotter
+- [ ] Do [[#When going offshore|offshore preparations]] as needed
 - [ ] Decide [[sails#Sail plan|sail plan]]
 - [ ] Check freshwater tank level
 - [ ] Check diesel tank level
@@ -34,6 +35,7 @@
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
+- [ ] Tie fenders securely to handrails on _both_ sides
 - [ ] Stow inner forestay if necessary
 - [ ] [[sails#Setting up the Parasailor|Set up Parasailor]] if planned to be used
 - [ ] Remove headsail furler safety line
@@ -52,3 +54,14 @@
 - [ ] Set/remove fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit
 - [ ] Free tiller
+
+## When going offshore
+
+- [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
+- [ ] Set up sea bunk with lee cloth
+- [ ] Fill alcohol stove with fuel
+- [ ] Stow bow anchor in anchor locker
+- [ ] Put cork on heater exhaust and turn off heater circuit
+- [ ] Ensure banana-boot is tied securely
+- [ ] Ensure emergency contacts know the plan
+- [ ] Get pizza for the first watches if available
