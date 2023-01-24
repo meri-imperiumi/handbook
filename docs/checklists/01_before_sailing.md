@@ -41,7 +41,6 @@
 - [ ] Remove headsail furler safety line
 - [ ] Remove mainsail sun cover
 - [ ] Attach mainsail halyard to the sail head
-- [ ] Change shore lines to slip
 - [ ] Install flagpole
 - [ ] Move boom to center and uncoil main sheet
 - [ ] Remove winch covers
