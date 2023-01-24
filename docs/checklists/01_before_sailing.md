@@ -58,6 +58,8 @@
 ## When going offshore
 
 - [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
+- [ ] Download charts for the area in both Orca and Navionics
+- [ ] Download any media planned to be consumed while offshore
 - [ ] Set up sea bunk with lee cloth
 - [ ] Fill alcohol stove with fuel
 - [ ] Stow bow anchor in anchor locker
