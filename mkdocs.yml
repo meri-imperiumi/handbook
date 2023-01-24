@@ -26,6 +26,8 @@ extra:
       link: https://lille-oe.de
 extra_css:
   - assets/extra.css
+extra_javascript:
+  - assets/checklist.js
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
