@@ -19,6 +19,7 @@
 * [ ] Lock saloon table
 * [ ] Prepare lifevests
 * [ ] Fill water bottles and place them in cockpit holder
+* [ ] Turn off heater
 * [ ] Turn on VHF
 * [ ] Turn chartplotter tablet charging on
 * [ ] Remove engine frost guard (if using)
