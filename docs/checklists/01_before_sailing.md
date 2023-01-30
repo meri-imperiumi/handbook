@@ -49,6 +49,7 @@
 - [ ] Stow shore power cable
 - [ ] Check that inside team is ready
 - [ ] [[engine#Starting the engine|Start engine]], set RPMs to 1000 on neutral gear
+- [ ] Ensure all of the crew is on board
 - [ ] Harbour departure briefing
 - [ ] Set/remove fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit

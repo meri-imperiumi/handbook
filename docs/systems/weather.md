@@ -20,7 +20,7 @@ For offshore passages we use the [LuckGrib app](https://luckgrib.com) for weathe
 
 Download the latest grib files for the area of interest before the passage and whenever internet is available.
 
-For longer routes, make sure to also consult the pilot charts for the current month and region.
+For longer routes, make sure to also consult the [pilot charts](https://www.prevailing-winds.de/) for the current month and region.
 
 
 
