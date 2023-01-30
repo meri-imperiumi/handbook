@@ -19,6 +19,7 @@
 - [ ] Plug in shore power if using
 - [ ] Deploy [[electrics#FLINsail|FLINsail]] unless on shore power or the winds are too strong
 - [ ] Move main halyard to the end of the boom unless used for FLINsail
+- [ ] Deploy bathing ladder
 - [ ] If cold or rainy weather is expected, set up the cockpit enclosure
 - [ ] Deploy winch covers
 - [ ] Set instruments on sleep mode and deploy covers

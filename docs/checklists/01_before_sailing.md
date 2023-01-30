@@ -31,6 +31,7 @@
 - [ ] Change all shore lines to slip
 - [ ] Remove unnecessary spring lines
 - [ ] Stow cockpit enclosure
+- [ ] Stow bathing ladder
 - [ ] Stow dinghy
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow anchor daymark
