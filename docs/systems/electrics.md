@@ -34,10 +34,10 @@ The two battery banks are normally isolated from each other, except for:
 
 ### Fixed solar panels
 
-The vessel has two fixed solar panels:
+The vessel has two fixed solar arrays:
 
-* 150W panel on the stern arch
-* 60W panel on top of the hatch garage
+* 240W array (2×120W panel) on the stern arch
+* 120W panel on top of the hatch garage
 
 Each of these is connected to its own Victron SmartSolar charge controller.
 
