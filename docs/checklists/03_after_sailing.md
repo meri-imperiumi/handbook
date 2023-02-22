@@ -11,8 +11,10 @@
 - [ ] Stow flag
 - [ ] Stow boathooks
 - [ ] Stow [[sails#Parasailor|Parasailor]]
+- [ ] Stow staysail
 - [ ] Install mainsail sun cover
 - [ ] Tie safety strap around the rolled genoa
+- [ ] Detach and stow genoa sheets
 - [ ] Hoist "silencer fender" up the mast
 - [ ] Install and tighten inner forestay
 - [ ] Coil and stow all lines

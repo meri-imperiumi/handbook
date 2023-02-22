@@ -9,11 +9,15 @@ _Lille Ø_ is equipped with the following sails:
 * Main sail
     * 21m2 fully-battened dacron
     * Slab reefing with two reefing points
-    * Elvstrøm Sails, 2006 (unused before 2021)
+    * Elvstrøm Sails, 2006 (unused before 2022)
 * Genoa 1
-    * 30m2 laminate
+    * 30m2 laminate from recycled PET plastic
     * Roller furling (Profurl C350)
-    * Elvstrøm Sails, 2006
+    * Elvstrøm Sails, 2023
+* Staysail
+    * 14m2 dacron
+    * Hanked on with one reefing point
+    * Elvstrøm Sails, 2023
 * Parasailor
     * 68m2 nylon
     * Snubber sock
@@ -23,11 +27,12 @@ _Lille Ø_ is equipped with the following sails:
 
 * Normal conditions
     * Full genoa and main sail
+    * Tacking in tight spaces: staysail and main sail
 * Light wind
     * Wind forward of the beam: full genoa and main
     * Wind aft of the beam: Parasailor
 * Heavy weather
-    * Rolled genoa and main sail on 1st or 2nd reef
+    * Staysail and main sail on 1st or 2nd reef
 
 ## Boom preventer
 
