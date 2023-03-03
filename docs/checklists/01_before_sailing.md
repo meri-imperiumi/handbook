@@ -25,6 +25,7 @@
 * [ ] Turn chartplotter tablet charging on
 * [ ] Remove engine frost guard (if using)
 * [ ] Ensure engine seacock is open
+* [ ] Close seawater tap and watermaker valves
 
 ## On deck
 
@@ -40,6 +41,7 @@
 - [ ] Stow inner forestay if necessary
 - [ ] [[sails#Setting up the Parasailor|Set up Parasailor]] if planned to be used
 - [ ] Remove headsail furler safety line
+- [ ] Install headsail sheets 
 - [ ] Remove mainsail sun cover
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Install flagpole
@@ -50,7 +52,9 @@
 - [ ] Stow shore power cable
 - [ ] Check that inside team is ready
 - [ ] [[engine#Starting the engine|Start engine]], set RPMs to 1000 on neutral gear
+- [ ] Check that water is coming out of exhaust 
 - [ ] Ensure all of the crew is on board
+- [ ] Prepare intercom headsets
 - [ ] Harbour departure briefing
 - [ ] Set/remove fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit
@@ -61,6 +65,7 @@
 - [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
 - [ ] Download charts for the area in both Orca and Navionics
 - [ ] Download any media planned to be consumed while offshore
+- [ ] Charge all battery packs and flashlights
 - [ ] Set up sea bunk with lee cloth
 - [ ] Fill alcohol stove with fuel
 - [ ] Stow bow anchor in anchor locker
