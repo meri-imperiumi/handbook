@@ -6,10 +6,26 @@
 - [ ] [[navigation#Planning a coastal/inland route|Plan route]] and set up in plotter
 - [ ] Do [[#When going offshore|offshore preparations]] as needed
 - [ ] Decide [[sails#Sail plan|sail plan]]
+- [ ] Update sail plan and crew list in [logbook](http://192.168.1.105/admin/#/e/_meri_imperiumi_signalk_logbook)
 - [ ] Check freshwater tank level
 - [ ] Check diesel tank level
 - [ ] Check engine oil level
 - [ ] Check engine coolant level
+
+### Additional preparations when going offshore
+
+- [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
+- [ ] Download charts for the area in both Orca and Navionics
+- [ ] Download any media planned to be consumed while offshore
+- [ ] Charge all battery packs and flashlights
+- [ ] Set up sea bunk with lee cloth
+- [ ] Fill alcohol stove with fuel
+- [ ] Stow bow anchor in anchor locker
+- [ ] Put cork on heater exhaust and turn off heater circuit
+- [ ] Ensure banana-boot is tied securely
+- [ ] Hank on and secure staysail
+- [ ] Ensure emergency contacts know the plan
+- [ ] Get pizza for the first watches if available
 
 ## Inside the vessel
 
@@ -59,17 +75,3 @@
 - [ ] Set/remove fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit
 - [ ] Free tiller
-
-## When going offshore
-
-- [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
-- [ ] Download charts for the area in both Orca and Navionics
-- [ ] Download any media planned to be consumed while offshore
-- [ ] Charge all battery packs and flashlights
-- [ ] Set up sea bunk with lee cloth
-- [ ] Fill alcohol stove with fuel
-- [ ] Stow bow anchor in anchor locker
-- [ ] Put cork on heater exhaust and turn off heater circuit
-- [ ] Ensure banana-boot is tied securely
-- [ ] Ensure emergency contacts know the plan
-- [ ] Get pizza for the first watches if available

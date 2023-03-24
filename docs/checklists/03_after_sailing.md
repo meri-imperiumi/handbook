@@ -14,7 +14,7 @@
 - [ ] Stow staysail
 - [ ] Install mainsail sun cover
 - [ ] Tie safety strap around the rolled genoa
-- [ ] Detach and stow genoa sheets
+- [ ] Detach and stow genoa sheets (except if anchored)
 - [ ] Hoist "silencer fender" up the mast
 - [ ] Install and tighten inner forestay
 - [ ] Coil and stow all lines
