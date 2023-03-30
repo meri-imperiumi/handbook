@@ -45,7 +45,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Let out about 3m more of chain so that it hangs loose and we're on the snubber
 - [ ] Hoist the anchor daymark
 - [ ] Turn anchor light on as required
-- [ ] Follow the [[03_after_sailing|after sailing]] checklist
+- [ ] Follow the [[04_after_sailing|after sailing]] checklist
 - [ ] Keep engine or the genoa ready for use in case of emergencies
 
 ## Scandinavian mooring
