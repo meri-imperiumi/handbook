@@ -67,7 +67,8 @@
 - [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Stow shore power cable
 - [ ] Check that inside team is ready
-- [ ] [[engine#Starting the engine|Start engine]], set RPMs to 1000 on neutral gear
+- [ ] Check that there are no lines that could foul the propeller 
+- [ ] [[engine#Starting the engine|Start engine]]
 - [ ] Check that water is coming out of exhaust 
 - [ ] Ensure all of the crew is on board
 - [ ] Prepare intercom headsets

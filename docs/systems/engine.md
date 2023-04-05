@@ -8,10 +8,10 @@ _Lille Ø_ is equipped with a 27hp Yanmar 3GM30F diesel auxiliary engine.
 - [ ] Check diesel level
 - [ ] Check engine oil level
 - [ ] Check coolant level
-- [ ] Push the button on the throttle and move it about 10° forward
+- [ ] Check that there are no lines in water that might foul the propeller
+- [ ] Move the throttle lever to the neutral position
 - [ ] Check that the shutoff cord is fully in
 - [ ] Turn the key and push the start button
-- [ ] Set RPMs to 1000
 - [ ] Ensure that water is coming out of the exhaust
 - [ ] Ensure that alternator is charging the house bank
 - [ ] Let engine come to operating temperature, about 5min
