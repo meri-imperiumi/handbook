@@ -1,0 +1,27 @@
+# Dropping the mast
+
+- [ ] Remove Genoa from roller and pack away
+- [ ] Turn off VHF and AIS
+- [ ] Unplug mast cables and bring to deck
+- [ ] Remove roller furling line
+- [ ] Drop anchor to sea level
+- [ ] Move spinnaker halyard to mast
+- [ ] Detach and stow inner forestay
+- [ ] Move staysail halyard to mast
+- [ ] Remove mainsail from mast track
+- [ ] Remove and stow spinnaker boom
+- [ ] Remove and stow Rodkicker
+- [ ] Replace lazy jacks with messenger lines
+- [ ] Remove and stow boom
+- [ ] Remove aft solar panels
+- [ ] Remove and stow lower shrouds
+- [ ] Remove and pack bottlescrew safeties from stats and upper shrouds
+- [ ] Attach and hoist mast crane to spreader level
+- [ ] Prepare bow mast support
+- [ ] Detach and stow aft stays
+- [ ] Detach and stow upper shrouds
+- [ ] Detach forestay
+- [ ] Attach bow mast support to pulpit
+- [ ] Lift mast gently and move mast foot to bow
+- [ ] Secure mast to bow support and solar arch
+- [ ] Tie shrouds etc to mastq
