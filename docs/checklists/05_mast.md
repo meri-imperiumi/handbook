@@ -15,7 +15,7 @@
 - [ ] Remove and stow boom
 - [ ] Remove aft solar panels
 - [ ] Remove and stow lower shrouds
-- [ ] Remove and pack bottlescrew safeties from stats and upper shrouds
+- [ ] Remove and pack bottlescrew safeties from stays and upper shrouds
 - [ ] Attach and hoist mast crane to spreader level
 - [ ] Prepare bow mast support
 - [ ] Detach and stow aft stays
@@ -24,4 +24,4 @@
 - [ ] Attach bow mast support to pulpit
 - [ ] Lift mast gently and move mast foot to bow
 - [ ] Secure mast to bow support and solar arch
-- [ ] Tie shrouds etc to mastq
+- [ ] Tie shrouds etc to mast

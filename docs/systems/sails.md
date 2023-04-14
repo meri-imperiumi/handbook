@@ -40,11 +40,11 @@ Whenever the boom is outside the cockpit it should be set up with a boom prevent
 
 Setup is the following:
 
-- [ ] Release the preventer line (red or green) from pushpit
+- [ ] Open the rope clutch controlling the preventer line (red or green)
 - [ ] Attach preventer line block to the forward cleat
 - [ ] Unhook the on-boom preventer pennant and attach to the preventer line
 - [ ] Slightly open the boom with the main sheet
-- [ ] Pull preventer line tight and cleat to aft cleat
+- [ ] Pull preventer line tight with the sheet winch and close the rope clutch
 - [ ] Tighten main sheet
 
 ## Poling our the headsail

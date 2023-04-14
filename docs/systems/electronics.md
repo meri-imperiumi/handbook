@@ -30,6 +30,7 @@ The boat's NMEA 2000 (N2K) backbone runs from bow to the technical compartment. 
 * [Yacht Devices YDNR-02](https://www.yachtd.com/products/wifi_router.html) router connecting the following to N2K:
     * [[#Autopilot|Raymarine ST4000+]] autopilot
     * [LCJ Capteurs CV7](https://lcjcapteurs.com/en/categorie-girouette-anemometres-capteur-vent/cruising-sailboats/) ultrasonic wind sensor
+    * [Actisense DST-2](https://actisense.com/products/dst-2-nmea-0183-digital-transducer/) digitizer for Sumlog paddle wheel and NASA depth transducer
 * [AMEC WideLink B600](https://www.milltechmarine.com/b600) AIS transponder
 * Raspberry Pi 4 with [Sailor Hat](https://shop.hatlabs.fi) and [Signal K](https://signalk.org)
 

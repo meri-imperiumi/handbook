@@ -61,6 +61,19 @@ The boat carries a deployable 300W [FLINsail](https://flin-solar.de). This is a 
 
 **Note: The maximum wind speed for deploying the FLINsail is 18kt**
 
+### Hydrogenerator
+
+The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mounted in the stern bracket.  This can be used to produce power when sailing faster than 4kt. At around 5kt of speed through water it covers the boat's basic power consumption.
+
+#### Deploying the hydrogenerator
+
+- [ ] Turn on the hydrogenerator controller (switch in technical compartment)
+- [ ] Untie the hydrogenerator control rope and lower it gently into water
+- [ ] Tie the control rope so that the generator is upright
+- [ ] Check from controller app or VictronConnect that hydrogenerator is producing power
+
+**Note: stow the hydrogenerator when batteries are full**
+
 ### Alternator
 
 The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via a DC-DC charger).

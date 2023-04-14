@@ -8,7 +8,7 @@ We use the following applications for navigation:
 * [LuckGrib](https://luckgrib.com) for offshore weather routing
 
 ## Cockpit chartplotter
-We use a Samsung Galaxy Tab Active waterproof tablet as the cockpit chartplotter.
+We use a Samsung Galaxy Tab Active3 waterproof tablet as the cockpit chartplotter.
 Install the tablet to its holder in the cockpit and enable charging via the "tablet" switch next to the companionway.
 The tablet will receive navigational information including AIS targets from the boat WiFi network.
 

@@ -11,6 +11,7 @@
 - [ ] Check diesel tank level
 - [ ] Check engine oil level
 - [ ] Check engine coolant level
+- [ ] Check that all keys are in their place
 
 ### Additional preparations when going offshore
 
@@ -24,6 +25,7 @@
 - [ ] Put cork on heater exhaust and turn off heater circuit
 - [ ] Ensure banana-boot is tied securely
 - [ ] Hank on and secure staysail
+- [ ] Install jacklines
 - [ ] Ensure emergency contacts know the plan
 - [ ] Get pizza for the first watches if available
 
@@ -39,6 +41,7 @@
 * [ ] Turn off heater
 * [ ] Turn on VHF
 * [ ] Turn chartplotter tablet charging on
+* [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 * [ ] Remove engine frost guard (if using)
 * [ ] Ensure engine seacock is open
 * [ ] Close seawater tap and watermaker valves
@@ -64,7 +67,6 @@
 - [ ] Move boom to center and uncoil main sheet
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
-- [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Stow shore power cable
 - [ ] Check that inside team is ready
 - [ ] Check that there are no lines that could foul the propeller 
@@ -72,6 +74,8 @@
 - [ ] Check that water is coming out of exhaust 
 - [ ] Ensure all of the crew is on board
 - [ ] Prepare intercom headsets
+- [ ] Life vests on
+- [ ] Apply sunscreen
 - [ ] Harbour departure briefing
 - [ ] Set/remove fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit
