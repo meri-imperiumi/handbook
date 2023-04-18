@@ -4,6 +4,8 @@ _Lille Ø_ runs both a 12V DC system and a 220V AC system, the latter powered by
 
 The battery main switch is located under the navigation station bench.
 
+![Electrical diagram](../assets/electrical-diagram.png)
+
 ## Consumption
 
 Typical power consumption on the boat is around 1.2kWh per day in the summer months. In winter and shore power it ranges around 3-6kWh per day depending on how much the diesel heater and the [[engine]] frost guard need to run.
