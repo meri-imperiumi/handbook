@@ -63,7 +63,7 @@
 - [ ] Install headsail sheets 
 - [ ] Remove mainsail sun cover
 - [ ] Attach mainsail halyard to the sail head
-- [ ] Install flagpole
+- [ ] Hoist flag
 - [ ] Move boom to center and uncoil main sheet
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
