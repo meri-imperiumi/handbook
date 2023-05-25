@@ -27,6 +27,7 @@
 - [ ] Set instruments on sleep mode and deploy covers
 - [ ] Remove [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Open diesel heater exhaust cover
+- [ ] Remove safety knives if in a harbour
 
 ## Inside the vessel
 

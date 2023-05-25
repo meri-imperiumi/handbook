@@ -16,7 +16,7 @@
 ### Additional preparations when going offshore
 
 - [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
-- [ ] Download charts for the area in both Orca and Navionics
+- [ ] Download charts for the area in Orca
 - [ ] Download any media planned to be consumed while offshore
 - [ ] Charge all battery packs and flashlights
 - [ ] Set up sea bunk with lee cloth
@@ -68,6 +68,7 @@
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
 - [ ] Stow shore power cable
+- [ ] Install safety knives
 - [ ] Check that inside team is ready
 - [ ] Check that there are no lines that could foul the propeller 
 - [ ] [[engine#Starting the engine|Start engine]]
