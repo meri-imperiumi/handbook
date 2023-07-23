@@ -35,7 +35,7 @@
 * [ ] Close heads seacock
 * [ ] Ensure all cabinets are closed
 * [ ] Ensure no debris on cabin surfaces
-* [ ] Lock saloon table
+* [ ] Stow saloon table
 * [ ] Prepare lifevests
 * [ ] Fill water bottles and place them in cockpit holder
 * [ ] Turn off heater
@@ -44,7 +44,7 @@
 * [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 * [ ] Remove engine frost guard (if using)
 * [ ] Ensure engine seacock is open
-* [ ] Close seawater tap and watermaker valves
+* [ ] Close seawater tap
 
 ## On deck
 
@@ -57,14 +57,14 @@
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
 - [ ] Tie fenders securely to handrails on _both_ sides
-- [ ] Stow inner forestay if necessary
+- [ ] Stow inner forestay if necessary (adjust to *6* if using)
 - [ ] [[sails#Setting up the Parasailor|Set up Parasailor]] if planned to be used
 - [ ] Remove headsail furler safety line
 - [ ] Install headsail sheets 
 - [ ] Remove mainsail sun cover
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Hoist flag
-- [ ] Move boom to center and uncoil main sheet
+- [ ] Move main sheet to traveler and uncoil
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
 - [ ] Stow shore power cable
