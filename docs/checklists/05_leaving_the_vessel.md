@@ -2,6 +2,7 @@
 
 ## Inside the vessel
 
+- [ ] Pickle the watermaker and remove filter if leaving the boat for longer than a week
 - [ ] Open saloon bunks for ventilation
 - [ ] Open v-berth bunks for ventilation
 - [ ] Close and lock front hatch
@@ -10,7 +11,8 @@
 - [ ] Close motor seacock
 - [ ] Install frost guard (if needed)
 - [ ] Check bilge water level
-- [ ] Empty fridge
+- [ ] Empty fridge and all perishables
+- [ ] Take out trash
 - [ ] Shut down all other DC circuits except for _Computer_ and _Navigation Instruments_
 - [ ] Shut down inverter
 
