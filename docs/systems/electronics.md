@@ -46,13 +46,13 @@ Autopilot course computer is in the cockpit near the companionway.
 
 The autopilot can be set to steer a compass course or a wind angle.
 
-In addition to the course computer, the autopilot can also be controlled remotely via both Signal K and the [[navigation|Orca app]].
+In addition to the course computer, the autopilot can also be controlled remotely via Signal K.
 
 ## Remote monitoring
 
 The state of boat systems is continuously logged to multiple online services, and can be remotely monitored via:
 
 * [Victron VRM](https://vrm.victronenergy.com)
-* [Saillogger](https://saillogger.com/)
+* [PostgSail](https://iot.openplotter.cloud/monitoring)
 
 This is handled by the combination of a Victron Cerbo GX system and Signal K.

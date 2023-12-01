@@ -10,6 +10,7 @@
 - [ ] Close galley sink seacock
 - [ ] Close motor seacock
 - [ ] Install frost guard (if needed)
+- [ ] Install dehumidifier (if on shore power)
 - [ ] Check bilge water level
 - [ ] Empty fridge and all perishables
 - [ ] Take out trash
@@ -20,5 +21,5 @@
 
 - [ ] Pump bilge empty (if needed)
 - [ ] Close and lock companionway washboards
-- [ ] Ensure shore power cable is connected if using frost guard
+- [ ] Ensure shore power cable is connected if using frost guard or dehumidifier
 - [ ] Ensure all shore lines are well tied and not chafing

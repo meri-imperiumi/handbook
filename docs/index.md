@@ -16,5 +16,5 @@ _Lille Ø_ is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft 
 - Air draft: 13.37m
 - Displacement: 5500kg
 - Ballast: 2600kg
-- Hull speed: 6.9kt
+- Hull speed: 6.4kt loaded, 7.1kt empty
 

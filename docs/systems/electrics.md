@@ -18,7 +18,7 @@ The primary electrical consumers on the boat are:
 * Autopilot
 * Personal computers
 
-In situations where batteries are running low, it is a good idea to disable some or all of these.
+In situations where batteries are running low, it is a good idea to disable some or all of these. Actual consumption is visible in VictronConnect or VRM.
 
 ## Storage
 
@@ -69,7 +69,7 @@ The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mount
 
 #### Deploying the hydrogenerator
 
-- [ ] Turn on the hydrogenerator controller (switch in technical compartment)
+- [ ] Turn on the hydrogenerator controller (switch on the rear bulkhead starboard of the companionway)
 - [ ] Untie the hydrogenerator control rope and lower it gently into water
 - [ ] Tie the control rope so that the generator is upright
 - [ ] Check from controller app or VictronConnect that hydrogenerator is producing power
@@ -84,9 +84,9 @@ When the engine is running we get about 200W of charge into the house bank.
 
 ### Shore power charger
 
-The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://www.victronenergy.com/inverters-chargers/multi-500-va) inverter-charger. Shore power cord is located in the anchor locker. It has a CEE plug. There is a CEE to Schuko adapter in the lazarette as needed.
+The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://www.victronenergy.com/inverters-chargers/multi-500-va) inverter-charger. Shore power RS692 plug is located in the anchor locker. The shore power CEE cord is typically in the lazarette. There is a CEE to Schuko adapter in the lazarette as needed, as well as an extension cord.
 
-The shore power connection is isolated with a galvanic isolator.
+The shore power connection is isolated with a Victron galvanic isolator. This is located next to the shore power main breaker in the hull side of the technical compartment.
 
 ## Monitoring
 

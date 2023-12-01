@@ -3,12 +3,12 @@
 ## On deck
 
 - [ ] [[engine#Stopping the engine|Stop the engine]]
-- [ ] Install fenders as needed
+- [ ] Inflate and install fenders as needed
 - [ ] Switch slip lines to tied shore lines. Keep slip lines as (loose) backup if needed
 - [ ] Ensure adequate distance from pier by pulling the boat
 - [ ] Add chafe guards to lines as needed
 - [ ] Tie tiller to the pushpit
-- [ ] Stow flag
+- [ ] Lower and stow flag
 - [ ] Stow boathooks
 - [ ] Stow [[sails#Parasailor|Parasailor]]
 - [ ] Stow staysail
@@ -37,3 +37,4 @@
 - [ ] Open front hatch for ventilation
 - [ ] Open heads seacock
 - [ ] Install engine frost guard (if needed)
+- [ ] Install and run dehumidifier (if needed)

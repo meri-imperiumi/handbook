@@ -19,7 +19,8 @@
 - [ ] Download charts for the area in Orca
 - [ ] Download any media planned to be consumed while offshore
 - [ ] Charge all battery packs and flashlights
-- [ ] Set up sea bunk with lee cloth
+- [ ] Charge handheld VHF
+- [ ] Set up sea bunk(s) with lee cloth
 - [ ] Fill alcohol stove with fuel
 - [ ] Stow bow anchor in anchor locker
 - [ ] Put cork on heater exhaust and turn off heater circuit
@@ -43,6 +44,7 @@
 * [ ] Turn chartplotter tablet charging on
 * [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 * [ ] Remove engine frost guard (if using)
+* [ ] Stow dehumidifier (if using)
 * [ ] Ensure engine seacock is open
 * [ ] Close seawater tap
 
@@ -56,7 +58,6 @@
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
-- [ ] Tie fenders securely to handrails on _both_ sides
 - [ ] Stow inner forestay if necessary (adjust to *6* if using)
 - [ ] [[sails#Setting up the Parasailor|Set up Parasailor]] if planned to be used
 - [ ] Remove headsail furler safety line
@@ -78,6 +79,6 @@
 - [ ] Life vests on
 - [ ] Apply sunscreen
 - [ ] Harbour departure briefing
-- [ ] Set/remove fenders as appropriate for the departure plan
+- [ ] Set or deflate and stow fenders as appropriate for the departure plan
 - [ ] Place short boathook into cockpit
 - [ ] Free tiller

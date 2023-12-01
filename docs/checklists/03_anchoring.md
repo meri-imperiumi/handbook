@@ -12,7 +12,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 
 ### Preparing to anchor
 
-- [ ] Check weather forecast and ensure that anchorage has appropriate protection
+- [ ] Check weather forecast and ensure that anchorage has appropriate protection (especially regarding waves or katabatic winds)
 - [ ] Check chart for appropriate depth and swinging room
 - [ ] Check other vessels for appropriate swinging room
 - [ ] Double-check chart data with depth sounder

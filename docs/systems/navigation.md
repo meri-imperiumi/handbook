@@ -9,7 +9,7 @@ We use the following applications for navigation:
 
 ## Cockpit chartplotter
 We use a Samsung Galaxy Tab Active3 waterproof tablet as the cockpit chartplotter.
-Install the tablet to its holder in the cockpit and enable charging via the "tablet" switch next to the companionway.
+Install the tablet to its holder in the cockpit and enable charging via the "tablet" switch next to the companionway. This will charge the tablet with 9V.
 The tablet will receive navigational information including AIS targets from the boat WiFi network.
 
 ## Planning a coastal/inland route
@@ -20,7 +20,7 @@ The tablet will receive navigational information including AIS targets from the 
 - [ ] Scroll through the route and check for any difficult spots or needed optimizations
 - [ ] Double check the route with another chart source
 - [ ] Move waypoints from autoroute as necessary
-- [ ] Check the harbour guide for any suitable anchorages or safe harbours on the way and mark them on the chart
+- [ ] Check the harbour guide or [No Foreign Land](https://www.noforeignland.com/) for any suitable anchorages or safe harbours on the way and mark them on the chart
 
 ## Planning an offshore route
 

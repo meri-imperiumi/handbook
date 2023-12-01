@@ -1,7 +1,7 @@
 # Dropping the mast
 
 - [ ] Remove Genoa from roller and pack away
-- [ ] Turn off VHF and AIS
+- [ ] Turn off VHF and AIS circuit
 - [ ] Unplug mast cables and bring to deck
 - [ ] Remove roller furling line
 - [ ] Drop anchor to sea level
@@ -12,8 +12,10 @@
 - [ ] Remove and stow spinnaker boom
 - [ ] Remove and stow Rodkicker
 - [ ] Replace lazy jacks with messenger lines
-- [ ] Remove and stow boom
+- [ ] Remove and stow boom using main halyard and topping lift
 - [ ] Remove aft solar panels
+- [ ] Lower the windvane servo rudder into water
+- [ ] Attach shroud bag to mast
 - [ ] Remove and stow lower shrouds
 - [ ] Remove and pack bottlescrew safeties from stays and upper shrouds
 - [ ] Attach and hoist mast crane to spreader level
@@ -25,3 +27,5 @@
 - [ ] Lift mast gently and move mast foot to bow
 - [ ] Secure mast to bow support and solar arch
 - [ ] Tie shrouds etc to mast
+- [ ] Hoist anchor
+- [ ] Hoist windvane servo rudder
