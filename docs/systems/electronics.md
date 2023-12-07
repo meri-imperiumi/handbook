@@ -38,6 +38,17 @@ The boat's NMEA 2000 (N2K) backbone runs from bow to the technical compartment. 
 
 * [B&G ZG100](https://www.bandg.com/bg/type/instrument-sensors-and-transducers/compass-sensors/gps-antenna-bg-zg100-module-pack/) GPS
 
+### Rebooting NMEA2000
+
+The Triton2 instruments become occasionally unresponsive after running for a longer time (typically multiple weeks). The solution is to restart them. Easiest option is by rebooting the entire N2K bus.
+
+- [ ] Turn *Navigation Instruments* circuit off
+- [ ] Wait 10 seconds and turn the circuit back on
+- [ ] Raspberry Pi needs to refresh the CAN interface to see NMEA2000 data. Either reboot it, or preferably:
+	- [ ] SSH to the RPi `ssh pi@lille-oe-pi.local`
+	- [ ] Run `sudo ifdown can0`
+	- [ ] Run `sudo ifup can0`
+
 ## Autopilot
 
 The boat is equipped with a Raymarine ST4000+ tiller pilot.

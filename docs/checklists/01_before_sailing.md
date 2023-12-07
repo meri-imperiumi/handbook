@@ -68,6 +68,7 @@
 - [ ] Move main sheet to traveler and uncoil
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
+- [ ] Check whether instruments are responsive. If not, [[electronics#Rebooting NMEA2000|reboot NMEA2000]]
 - [ ] Stow shore power cable
 - [ ] Install safety knives
 - [ ] Check that inside team is ready
