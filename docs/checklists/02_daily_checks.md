@@ -14,4 +14,5 @@
 - [ ] Make water if conditions allow
 - [ ] Check that hydrogenerator and windvane are in correct positions 
 - [ ] Write and publish the day's [\[b\]log entry](https://github.com/meri-imperiumi/log)
+- [ ] Do a tracking entry via InReach
 

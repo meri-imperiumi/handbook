@@ -34,6 +34,7 @@
 - [ ] Turn chartplotter tablet charging off
 - [ ] Turn navigational lights off
 - [ ] Turn VHF off
+- [ ] Disable InReach tracking
 - [ ] Open front hatch for ventilation
 - [ ] Open heads seacock
 - [ ] Install engine frost guard (if needed)
