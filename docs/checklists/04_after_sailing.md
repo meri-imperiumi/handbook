@@ -25,6 +25,7 @@
 - [ ] If cold or rainy weather is expected, set up the cockpit enclosure
 - [ ] Deploy winch covers
 - [ ] Set instruments on sleep mode and deploy covers
+- [ ] Turn VHF off and stow Commandmic
 - [ ] Remove [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Open diesel heater exhaust cover
 - [ ] Remove safety knives if in a harbour
@@ -33,7 +34,6 @@
 
 - [ ] Turn chartplotter tablet charging off
 - [ ] Turn navigational lights off
-- [ ] Turn VHF off
 - [ ] Disable InReach tracking
 - [ ] Open front hatch for ventilation
 - [ ] Open heads seacock

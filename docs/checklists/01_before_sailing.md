@@ -4,6 +4,7 @@
 
 - [ ] Check [[weather|weather forecast]]
 - [ ] [[navigation#Planning a coastal/inland route|Plan route]] and set up in plotter
+- [ ] [[electrics#^115922|Charge battery to 100%]] if needed
 - [ ] Do [[#When going offshore|offshore preparations]] as needed
 - [ ] Decide [[sails#Sail plan|sail plan]]
 - [ ] Update sail plan and crew list in [logbook](http://192.168.1.105/admin/#/e/_meri_imperiumi_signalk_logbook)
@@ -20,6 +21,7 @@
 - [ ] Download any media planned to be consumed while offshore
 - [ ] Charge all battery packs and flashlights
 - [ ] Charge handheld VHF
+- [ ] Charge InReach
 - [ ] Set up sea bunk(s) with lee cloth
 - [ ] Fill alcohol stove with fuel
 - [ ] Stow bow anchor in anchor locker
@@ -28,6 +30,7 @@
 - [ ] Hank on and secure staysail
 - [ ] Install jacklines
 - [ ] Ensure emergency contacts know the plan
+- [ ] Enable InReach tracking if using
 - [ ] Get pizza for the first watches if available
 
 ## Inside the vessel
@@ -40,9 +43,9 @@
 * [ ] Prepare lifevests
 * [ ] Fill water bottles and place them in cockpit holder
 * [ ] Turn off heater
-* [ ] Turn on VHF
 * [ ] Turn chartplotter tablet charging on
 * [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
+* [ ] Install VHF Commandmic
 * [ ] Remove engine frost guard (if using)
 * [ ] Stow dehumidifier (if using)
 * [ ] Ensure engine seacock is open
@@ -69,6 +72,7 @@
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
 - [ ] Check whether instruments are responsive. If not, [[electronics#Rebooting NMEA2000|reboot NMEA2000]]
+- [ ] Turn on VHF
 - [ ] Stow shore power cable
 - [ ] Install safety knives
 - [ ] Check that inside team is ready

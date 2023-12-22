@@ -88,6 +88,20 @@ The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://ww
 
 The shore power connection is isolated with a Victron galvanic isolator. This is located next to the shore power main breaker in the hull side of the technical compartment.
 
+The shore power charger is set to [solar priority mode](https://www.victronenergy.com/live/ve.bus:solar-and-wind-priority), meaning that it will only charge batteries if they are very depleted. Otherwise it will only power AC loads and let renewables handle the DC side.
+
+#### Charging batteries to full
+
+^115922
+
+- [ ] Ensure shore power is plugged in
+- [ ] Open a browser to the [Cerbo GX screen](http://venus.local)
+- [ ] Open MultiPlus settings
+- [ ] Click *Charge batteries to 100%*
+- [ ] Confirm
+
+![Charging to 100%](../assets/victron_full.jpg)
+
 ## Monitoring
 
 The boat's electrical system can be monitored via:
