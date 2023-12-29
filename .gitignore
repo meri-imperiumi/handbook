@@ -1,3 +1,4 @@
 public/
 docs/.obsidian/workspace.json
 .DS_Store
+venv/
