@@ -2,7 +2,7 @@
 
 _Lille Ø_ is equipped with three anchors:
 
-* **Rocna Vulcan 15** bow anchor with 40m of 8mm chain
+* **Rocna Vulcan 15** bow anchor with 40m of 8mm chain and 30m rope
 * **Bruce 15kg** stern anchor with 5m of 8mm chain and 45m of webbing line
 * **Fortress Fx-11** kedge anchor
 
