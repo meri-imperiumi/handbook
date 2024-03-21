@@ -46,4 +46,16 @@ The sea water tap and the watermaker should only be opened in clean sea water.
 
 ## Watermaker
 
-TODO
+- [ ] Ensure water around the boat is clean (no oil spills, no algae)
+- [ ] Ensure engine raw water seacock and the watermaker valve are open
+- [ ] Run the watermaker output hose into the sink
+- [ ] Run the watermaker reject brine hose into the sink
+- [ ] Start watermaker by turning on the circuit
+- [ ] Run watermaker for about 10 minutes, then run the output into a cup
+- [ ] Test the water quality with TDS meter (should be <300ppm)
+- [ ] Taste test the water
+- [ ] If passing, move output hose into a canister
+- [ ] Log watermaker start time and ppm
+- [ ] Run until canister is nearly full
+- [ ] Run output again into a cup and test with TDS meter
+- [ ] Shut off watermaker and log time and ppm
