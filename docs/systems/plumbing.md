@@ -48,6 +48,7 @@ The sea water tap and the watermaker should only be opened in clean sea water.
 
 - [ ] Ensure water around the boat is clean (no oil spills, no algae)
 - [ ] Ensure engine raw water seacock and the watermaker valve are open
+- [ ] Check watermaker filter visually
 - [ ] Run the watermaker output hose into the sink
 - [ ] Run the watermaker reject brine hose into the sink
 - [ ] Start watermaker by turning on the circuit
