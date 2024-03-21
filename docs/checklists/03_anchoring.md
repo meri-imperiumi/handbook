@@ -17,10 +17,9 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Check other vessels for appropriate swinging room
 - [ ] Double-check chart data with depth sounder
 - [ ] Remove the safety shackle from anchor
-- [ ] Uncoil and prepare the anchor buoy line
+- [ ] Uncoil and prepare the anchor trip line
 - [ ] Prepare appropriate anchor chain on deck (about 4✕ depth)
 - [ ] Prepare for setting up anchor alarm (log [into Signal K](http://192.168.2.105/@signalk/freeboard-sk/) etc)
-- [ ] Prepare intercom headsets
 
 ### Setting the anchor
 
@@ -35,7 +34,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Then start backing again, slowly increasing power
 - [ ] Check that the anchor holds (transits to landmarks, speed 0kt when chain tight)
 - [ ] When setting anchor with engine, about 1500 RPM is a good number to reach
-- [ ] Pull up and reanchor if the anchor doesn't hold
+- [ ] Pull up and re-anchor if the anchor doesn't hold
 
 ### After anchor is set
 

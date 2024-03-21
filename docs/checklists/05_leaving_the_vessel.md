@@ -2,7 +2,7 @@
 
 ## Inside the vessel
 
-- [ ] Pickle the watermaker and remove filter if leaving the boat for longer than a week
+- [ ] Pickle the [[plumbing#Watermaker|watermaker]] and remove filter if leaving the boat for longer than a week
 - [ ] Open saloon bunks for ventilation
 - [ ] Open v-berth bunks for ventilation
 - [ ] Close and lock front hatch

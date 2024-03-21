@@ -20,7 +20,7 @@
 - [ ] Coil and stow all lines
 - [ ] Plug in shore power if using
 - [ ] Deploy [[electrics#FLINsail|FLINsail]] unless on shore power or the winds are too strong
-- [ ] Move main halyard to the end of the boom unless used for FLINsail
+- [ ] Tie main halyard to lazyjacks unless used for FLINsail
 - [ ] Deploy bathing ladder
 - [ ] If cold or rainy weather is expected, set up the cockpit enclosure
 - [ ] Deploy winch covers

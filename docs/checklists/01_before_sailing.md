@@ -4,7 +4,7 @@
 
 - [ ] Check [[weather|weather forecast]]
 - [ ] [[navigation#Planning a coastal/inland route|Plan route]] and set up in plotter
-- [ ] [[electrics#^115922|Charge battery to 100%]] if needed
+- [ ] [[electrics#Charging batteries to full|Charge battery to 100%]] if needed
 - [ ] Do [[#When going offshore|offshore preparations]] as needed
 - [ ] Decide [[sails#Sail plan|sail plan]]
 - [ ] Update sail plan and crew list in [logbook](http://192.168.2.105/admin/#/e/_meri_imperiumi_signalk_logbook)
@@ -27,7 +27,6 @@
 - [ ] Stow bow anchor in anchor locker
 - [ ] Install bowsprit
 - [ ] Put cork on heater exhaust and turn off heater circuit
-- [ ] Ensure banana-boot is tied securely
 - [ ] Hank on and secure staysail
 - [ ] Install jacklines
 - [ ] Ensure emergency contacts know the plan
@@ -80,7 +79,6 @@
 - [ ] [[engine#Starting the engine|Start engine]]
 - [ ] Check that water is coming out of exhaust 
 - [ ] Ensure all of the crew is on board
-- [ ] Prepare intercom headsets
 - [ ] Life vests on
 - [ ] Apply sunscreen
 - [ ] Harbour departure briefing

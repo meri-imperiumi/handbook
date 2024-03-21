@@ -92,8 +92,6 @@ The shore power charger is set to [solar priority mode](https://www.victronenerg
 
 #### Charging batteries to full
 
-^115922
-
 - [ ] Ensure shore power is plugged in
 - [ ] Open a browser to the [Cerbo GX screen](http://venus.local)
 - [ ] Open MultiPlus settings
