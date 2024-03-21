@@ -75,14 +75,14 @@ A good rule of thumb is that the sail should be prepared and ready to use whenev
 
 - [ ] Carry the Parasailor bag to foredeck and attach to mast
 - [ ] Roll in the genoa
-- [ ] Install the Parasailor tacker around the rolled genoa
+- [ ] Install tack lines rollers to the bowsprit
 - [ ] Install barberhaulers to the Parasailor sheets
-- [ ] Install Parasailor sheets and attach to tacker
+- [ ] Install Parasailor sheets and attach to pulpit
 - [ ] Set course to about 120° apparent wind
 - [ ] Attach the spinnaker halyard to the Parasailor
 - [ ] Hoist the Parasailor sock, keeping control of the snubber line
 - [ ] Cleat the snubber line to prevent accidental opening
-- [ ] Attach sheets and tacker to the Parasailor
+- [ ] Attach sheets and tack lines to the Parasailor
 - [ ] Drop the main sail
 - [ ] Attach a snatch block to front cleat and the snubber line
 - [ ] Hoist the sock in a controlled manner with the snubber line
@@ -97,10 +97,11 @@ A good rule of thumb is that the sail should be prepared and ready to use whenev
 - [ ] While sock is being pulled, ease the Parasailor sheet
 - [ ] Have a short pause at the Parasailor wing to allow the air to be spilled
 - [ ] Pull the sock fully down and cleat to prevent accidental opening
-- [ ] Detach sheets and tacker from the Parasailor
+- [ ] Detach sheets and tack lines from the Parasailor
 - [ ] Hoist the main sail
 - [ ] Open the Parasailor bag and move the bottom end of the sock there
 - [ ] Lower the Parasailor sock into the bag
 - [ ] Close the Parasailor bag and stow the spinnaker halyard
 - [ ] Stow Parasailor sheets
+- [ ] Move tack line rollers back to bow cleats
 - [ ] Get back on course
