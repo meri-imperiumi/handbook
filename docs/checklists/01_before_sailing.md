@@ -25,13 +25,13 @@
 - [ ] Set up sea bunk(s) with lee cloth
 - [ ] Fill alcohol stove with fuel
 - [ ] Stow bow anchor in anchor locker
+- [ ] Install bowsprit
 - [ ] Put cork on heater exhaust and turn off heater circuit
 - [ ] Ensure banana-boot is tied securely
 - [ ] Hank on and secure staysail
 - [ ] Install jacklines
 - [ ] Ensure emergency contacts know the plan
-- [ ] Enable InReach tracking if using
-- [ ] Get pizza for the first watches if available
+- [ ] Get pizza for the first watches if available 
 
 ## Inside the vessel
 

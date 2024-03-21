@@ -28,13 +28,13 @@
 - [ ] Turn VHF off and stow Commandmic
 - [ ] Remove [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Open diesel heater exhaust cover
-- [ ] Remove safety knives if in a harbour
+- [ ] Remove safety knives if in a port with public access
 
 ## Inside the vessel
 
 - [ ] Turn chartplotter tablet charging off
 - [ ] Turn navigational lights off
-- [ ] Disable InReach tracking
+- [ ] Disable InReach tracking (if using)
 - [ ] Open front hatch for ventilation
 - [ ] Open heads seacock
 - [ ] Install engine frost guard (if needed)
