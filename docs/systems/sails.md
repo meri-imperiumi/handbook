@@ -39,7 +39,7 @@ _Lille Ø_ is equipped with the following sails:
     * Wind forward of the beam: full genoa and main
     * Wind aft of the beam: Parasailor
 * Heavy weather
-    * Staysail and main sail on 1st or 2nd reef
+    * Staysail or storm jib and reefed main sail
 
 ## Boom preventer
 
@@ -54,7 +54,15 @@ Setup is the following:
 - [ ] Pull preventer line tight with the sheet winch and close the rope clutch
 - [ ] Tighten main sheet
 
-## Poling our the headsail
+## Poling out the headsail
+
+- [ ] Attach whisker pole uphaul to the end of the pole
+- [ ] Attach forward and aft guy lines to the end of the pole
+- [ ] For staysail, install the extra "poling out sheet"
+- [ ] Lower the whisker pole so that it is easily accessible
+- [ ] Hook the sheet through the whisker pole jaws
+- [ ] Hoist and tension the pole using the uphaul and the guys. Pole should be completely immobilised
+- [ ] Tack or unroll the headsail to the poled out side
 
 ## Parasailor
 
