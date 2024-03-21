@@ -15,9 +15,11 @@ The tablet will receive navigational information including AIS targets from the 
 ## Planning a coastal/inland route
 
 - [ ] Check the [[weather]] forecast
+- [ ] Check tide levels and schedules
 - [ ] Decide on the target point
 - [ ] Create an autoroute to target point in the navigation app
-- [ ] Scroll through the route and check for any difficult spots or needed optimizations
+- [ ] Scroll through the route and check for any difficult spots or needed optimisations
+- [ ] Mark all tidal gates to chart
 - [ ] Double check the route with another chart source
 - [ ] Move waypoints from autoroute as necessary
 - [ ] Check the harbour guide or [No Foreign Land](https://www.noforeignland.com/) for any suitable anchorages or safe harbours on the way and mark them on the chart
@@ -30,7 +32,7 @@ The tablet will receive navigational information including AIS targets from the 
 - [ ] Download latest [[weather#Offshore weather|offshore weather]] for the area
 - [ ] Create weather route with appropriate variations
 - [ ] When suitable route and departure window has been found, transfer route to plotter app
-- [ ] Scroll through the route and check for any difficult spots or needed optimizations
+- [ ] Scroll through the route and check for any difficult spots or needed optimisations
 - [ ] Move waypoints from route as necessary
 - [ ] Check the harbour guide for any suitable anchorages or safe harbours on the way and mark them on the chart
 
