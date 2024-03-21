@@ -8,7 +8,7 @@ _Lille Ø_ is equipped with the following sails:
 
 * Main sail
     * 21m2 fully-battened dacron
-    * Slab reefing with two reefing points
+    * Slab reefing with three reefing points
     * Elvstrøm Sails, 2006 (unused before 2022)
 * Genoa 1
     * 30m2 laminate from recycled PET plastic
@@ -18,10 +18,17 @@ _Lille Ø_ is equipped with the following sails:
     * 14m2 dacron
     * Hanked on with one reefing point
     * Elvstrøm Sails, 2023
+* Storm jib
+	* 5m2 dacron
+	* Hanked on with one reefing point
 * Parasailor
     * 68m2 nylon
     * Snubber sock
     * Istec, 2021
+* Spare main sail
+    * 21m2 fully-battened dacron
+    * Slab reefing with two reefing points
+    * Elvstrøm Sails, 2006
 
 ## Sail plan
 
