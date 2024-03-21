@@ -7,7 +7,7 @@
 - [ ] [[electrics#^115922|Charge battery to 100%]] if needed
 - [ ] Do [[#When going offshore|offshore preparations]] as needed
 - [ ] Decide [[sails#Sail plan|sail plan]]
-- [ ] Update sail plan and crew list in [logbook](http://192.168.1.105/admin/#/e/_meri_imperiumi_signalk_logbook)
+- [ ] Update sail plan and crew list in [logbook](http://192.168.2.105/admin/#/e/_meri_imperiumi_signalk_logbook)
 - [ ] Check freshwater tank level
 - [ ] Check diesel tank level
 - [ ] Check engine oil level

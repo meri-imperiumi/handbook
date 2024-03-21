@@ -13,8 +13,16 @@ Both of these networks are served by the [RUTX11](https://wiki.teltonika-network
 
 The RUTX11 also provides the boat's primary Internet uplink via LTE. The device has two SIM slots, one for our German SIM and another for a local data SIM when traveling.
 
-Administrative interface for the router can be found in <https://192.168.1.1/>
+Administrative interface for the router can be found in <https://192.168.2.1/>
+### Starlink
 
+The Starlink antenna ("Dishy v2") is mounted on the pushpit with a NOA bracket. The cable runs through the lazarette and starboard storage locker.
+It is powered with a Yaosheng PoE injector.
+
+Starlink can be controlled using the switch in the electrical panel. In a sea state it may take up to 30 minutes for the dishy to acquire an interner connection.
+Starlink consumes about 50W of power.
+
+Our RUTX11 is configured to use Starlink for uplink when available, and use the two LTE SIMs as fallback.
 ## NMEA 2000
 
 The boat's NMEA 2000 (N2K) backbone runs from bow to the technical compartment. The bus contains the following devices:
