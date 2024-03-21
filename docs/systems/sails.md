@@ -30,6 +30,7 @@ _Lille Ø_ is equipped with the following sails:
     * Slab reefing with two reefing points
     * Elvstrøm Sails, 2006
 
+Sails not in use are stored under the tarp on cabin top.
 ## Sail plan
 
 * Normal conditions
