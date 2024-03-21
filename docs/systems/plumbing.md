@@ -18,6 +18,8 @@ The raw water intake seacock is located in the engine space. It feeds the engine
 
 The boat has a 200l freshwater tank situated under the v-berth. The deck fill is in the bow.
 
+Fresh water may also be filled inside the cabin using the pump and hose under the starboard v-berth. Remember to turn off the pump when the canisters are empty.
+
 The freshwater system is pressurized with a Whale pump located under the v-berth.
 
 There are three outlets:
