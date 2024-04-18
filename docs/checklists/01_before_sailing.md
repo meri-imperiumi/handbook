@@ -30,7 +30,9 @@
 - [ ] Hank on and secure staysail
 - [ ] Install jacklines
 - [ ] Ensure emergency contacts know the plan
+- [ ] Enable Priority Data for Starlink
 - [ ] Get pizza for the first watches if available 
+- [ ] Make a thermos of decaf tea in cold weather
 
 ## Inside the vessel
 
@@ -39,6 +41,7 @@
 * [ ] Ensure all cabinets are closed
 * [ ] Ensure no debris on cabin surfaces
 * [ ] Stow saloon table
+* [ ] Stow dinghy oars and parts
 * [ ] Prepare lifevests
 * [ ] Fill water bottles and place them in cockpit holder
 * [ ] Turn off heater
@@ -56,7 +59,8 @@
 - [ ] Remove unnecessary spring lines
 - [ ] Stow cockpit enclosure
 - [ ] Stow bathing ladder
-- [ ] Stow dinghy
+- [ ] Stow and tie down dinghy
+- [ ] Stow and tie down dinghy mast and boom
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
@@ -67,7 +71,7 @@
 - [ ] Remove mainsail sun cover
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Hoist flag
-- [ ] Move main sheet to traveler and uncoil
+- [ ] Move main sheets to pad eyes
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
 - [ ] Check whether instruments are responsive. If not, [[electronics#Rebooting NMEA2000|reboot NMEA2000]]
