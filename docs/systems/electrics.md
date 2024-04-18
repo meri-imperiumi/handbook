@@ -29,7 +29,7 @@ The boat has two battery banks:
 
 The two battery banks are normally isolated from each other, except for:
 
-* There is a 30A DC-DC charger to charge house bank from the starter circuit when alternator is running
+* There is a 40A DC-DC charger to charge house bank from the starter circuit when alternator is running
 * The inverter-charger trickle-charges the starter bank from house circuit at 1A when house bank is charging
 
 ## Production
@@ -78,7 +78,7 @@ The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mount
 
 ### Alternator
 
-The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via a DC-DC charger).
+The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via an Orion XS DC-DC charger).
 
 When the engine is running we get about 200W of charge into the house bank.
 
