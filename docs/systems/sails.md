@@ -58,7 +58,7 @@ Setup is the following:
 ## Poling out the headsail
 
 - [ ] Attach whisker pole uphaul to the end of the pole
-- [ ] Attach forward and aft guy lines to the end of the pole
+- [ ] Uncoil forward and aft guy lines attached to the pole
 - [ ] For staysail, install the extra "poling out sheet"
 - [ ] Lower the whisker pole so that it is easily accessible
 - [ ] Hook the sheet through the whisker pole jaws
@@ -76,7 +76,7 @@ A good rule of thumb is that the sail should be prepared and ready to use whenev
 
 - [ ] Carry the Parasailor bag to foredeck and attach to mast
 - [ ] Roll in the genoa
-- [ ] Install tack lines rollers to the bowsprit
+- [ ] Install tack line rollers to the bowsprit
 - [ ] Install barberhaulers to the Parasailor sheets
 - [ ] Install Parasailor sheets and attach to pulpit
 - [ ] Set course to about 120° apparent wind

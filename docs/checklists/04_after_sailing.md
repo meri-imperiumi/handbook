@@ -8,13 +8,12 @@
 - [ ] Ensure adequate distance from pier by pulling the boat
 - [ ] Add chafe guards to lines as needed
 - [ ] Tie tiller to the pushpit
-- [ ] Lower and stow flag
+- [ ] Lower and stow flag when not abroad
 - [ ] Stow boathooks
 - [ ] Stow [[sails#Parasailor|Parasailor]]
 - [ ] Stow staysail
 - [ ] Install mainsail sun cover
 - [ ] Tie safety strap around the rolled genoa
-- [ ] Detach and stow genoa sheets (except if anchored)
 - [ ] Hoist "silencer fender" up the mast
 - [ ] Install and tighten inner forestay
 - [ ] Coil and stow all lines

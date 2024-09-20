@@ -8,11 +8,12 @@ The battery main switch is located under the navigation station bench.
 
 ## Consumption
 
-Typical power consumption on the boat is around 1.2kWh per day in the summer months. In winter and shore power it ranges around 3-6kWh per day depending on how much the diesel heater and the [[engine]] frost guard need to run.
+Typical power consumption on the boat is around 1.4kWh per day in the summer months. In winter and shore power it ranges around 3-6kWh per day depending on how much the diesel heater and the [[engine]] frost guard need to run.
 
 The primary electrical consumers on the boat are:
 
 * Refrigerator
+* Starlink
 * Engine frost guard
 * Diesel heater
 * Autopilot
@@ -36,10 +37,11 @@ The two battery banks are normally isolated from each other, except for:
 
 ### Fixed solar panels
 
-The vessel has two fixed solar arrays:
+The vessel has three fixed solar arrays:
 
 * 240W array (2×120W panel) on the stern arch
 * 120W panel on top of the hatch garage
+* 200W array (2×100W panel) on top of the dinghy in the bow
 
 Each of these is connected to its own Victron SmartSolar charge controller.
 
@@ -89,7 +91,6 @@ The boat's shore power connection runs to a [Victron MultiPlus 500VA](https://ww
 The shore power connection is isolated with a Victron galvanic isolator. This is located next to the shore power main breaker in the hull side of the technical compartment.
 
 The shore power charger is set to [solar priority mode](https://www.victronenergy.com/live/ve.bus:solar-and-wind-priority), meaning that it will only charge batteries if they are very depleted. Otherwise it will only power AC loads and let renewables handle the DC side.
-
 #### Charging batteries to full
 
 - [ ] Ensure shore power is plugged in

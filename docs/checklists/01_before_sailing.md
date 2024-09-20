@@ -31,6 +31,7 @@
 - [ ] Install jacklines
 - [ ] Ensure emergency contacts know the plan
 - [ ] Enable Priority Data for Starlink
+- [ ] Enable tracking on InReach
 - [ ] Get pizza for the first watches if available 
 - [ ] Make a thermos of decaf tea in cold weather
 
