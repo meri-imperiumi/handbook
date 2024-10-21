@@ -33,7 +33,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Once the correct scope is reached, lock the chain
 - [ ] Let the anchor set for a short moment
 - [ ] Then start backing again, slowly increasing power
-- [ ] Check that the anchor holds (transits to landmarks, speed 0kt when chain tight)
+- [ ] Check that the anchor holds (transits to landmarks, SOG 0kt when chain tight)
 - [ ] When setting anchor with engine, about 1500 RPM is a good number to reach
 - [ ] Pull up and re-anchor if the anchor doesn't hold
 
@@ -43,7 +43,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Let out the snubber and chain until about 2-3m of snubber is out of the boat and cleat it
 - [ ] Set a chafe guard on the snubber
 - [ ] Let out about 5m more of chain so that it hangs loose and we're on the snubber
-- [ ] Hoist the anchor daymark
+- [ ] Hoist the anchor daymark with spinnaker halyard
 - [ ] Follow the [[04_after_sailing|after sailing]] checklist
 - [ ] Keep engine or the genoa ready for use in case of emergencies
 - [ ] Ensure that the Automatic Lights circuit is powered so that Signal K can turn the anchor light on as needed
