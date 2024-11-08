@@ -3,8 +3,6 @@
 We use the following applications for navigation:
 
 * [Orca CoPilot](https://getorca.com) as the "mobile chartplotter" for routing, charts, and autopilot control
-* [Navionics Boating](https://www.navionics.com/fin/apps/navionics-boating) for inland waters and tight anchorages
-* [Sailmate](https://www.sailmate.com) for official Finnish raster charts
 * [LuckGrib](https://luckgrib.com) for offshore weather routing
 
 ## Cockpit chartplotter
