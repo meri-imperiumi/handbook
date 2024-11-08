@@ -35,6 +35,7 @@
 - [ ] Turn navigational lights off
 - [ ] Disable InReach tracking (if using)
 - [ ] Disable Starlink Priority Data (if using)
+- [ ] Turn logbook printer off (if using)
 - [ ] Open front hatch for ventilation
 - [ ] Open heads seacock
 - [ ] Install engine frost guard (if needed)
