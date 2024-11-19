@@ -57,6 +57,20 @@ The Triton2 instruments become occasionally unresponsive after running for a lon
 	- [ ] Run `sudo ifdown can0`
 	- [ ] Run `sudo ifup can0`
 
+#### Settings for YDNR-02
+
+The YDNR-02 NMEA2000 to SeaTalk interface box sometimes loses its state when NMEA2000 is restarted. If this happens (usually seen by there suddenly being a `YDNR` WiFi hotspot and STW not being sent), here are the steps to set it up:
+
+1. Connect to WiFi and set WiFi client to Lille Oe
+2. Enable NMEA Server 2 (port `1457`), direction Both
+3. Route only SeaTalk and NMEA0183 ports to send to Server 2
+4. Set NMEA port speeds to `4800bps`
+5. NMEA settings: generate $STALK sentences
+7. Set SeaTalk whitelist to
+```
+ALK APB S82 S85 S86 S9E SA1 SA2 MWV S10 S11 VTG S53 S52 S99 STA
+```
+
 ## Autopilot
 
 The boat is equipped with a Raymarine ST4000+ tiller pilot.
