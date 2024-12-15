@@ -41,7 +41,7 @@ The raw water system has one intake in the engine space. There is a strainer aft
 * Galley sea water tap (separate shut-off under galley sink)
 * Watermaker (separate shut-off under galley sink)
 
-The sea water tap and the watermaker should only be opened in clean sea water.
+The sea water tap and the watermaker should only be opened in clean sea water. The sea water system is pressurised, with the power button under the sink.
 
 **Note: watermaker and galley freshwater tap should be closed when running the engine to prevent air from entering the system**
 
@@ -51,7 +51,7 @@ The sea water tap and the watermaker should only be opened in clean sea water.
 - [ ] Ensure engine raw water seacock and the watermaker valve are open
 - [ ] Check watermaker filter visually, change or clean as needed
 - [ ] Run the watermaker output hose into the sink
-- [ ] Start watermaker by turning on the circuit
+- [ ] Start watermaker by turning on the circuit and pressing the power button under the sink
 - [ ] Run watermaker for about 10 minutes, then run the output into a cup
 - [ ] Test the water quality with TDS meter (should be <300ppm)
 - [ ] Taste test the water
