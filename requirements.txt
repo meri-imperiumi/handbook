@@ -13,11 +13,11 @@ Pygments==2.14
 
 
 # https://facelessuser.github.io/pymdown-extensions/
-#8.2
-pymdown-extensions==9.9.1
+#==8.2
+pymdown-extensions>=9.9.1
 
 # https://github.com/mkdocstrings/mkdocstrings
-mkdocstrings==0.15.2
+#mkdocstrings==0.15.2
 
 # https://ai2business.github.io/mkdocstrings-sourcelink/
 mkdocstrings-sourcelink==0.3.2
