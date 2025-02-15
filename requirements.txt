@@ -34,7 +34,7 @@ mkdocs-autolinks-plugin==0.4.0
 mkdocs-mermaid2-plugin==0.5.1
 
 # https://mkdocstrings.github.io/
-mkdocstrings==0.15.2
+mkdocstrings==0.28.0
 
 # https://ai2business.github.io/mkdocstrings-sourcelink/
 #mkdocstrings-sourcelink==0.3.2
