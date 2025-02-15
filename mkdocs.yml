@@ -36,6 +36,7 @@ extra:
 plugins:
   - search
   - include-markdown
+  - roamlinks
 
   # mermaid2 diagrams: https://mermaid-js.github.io/mermaid/#/
   - mermaid2:
