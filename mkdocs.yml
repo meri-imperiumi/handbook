@@ -37,8 +37,6 @@ plugins:
   - search
   - include-markdown
 
-  # https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
-  - awesome-pages
   # mermaid2 diagrams: https://mermaid-js.github.io/mermaid/#/
   - mermaid2:
       arguments:
