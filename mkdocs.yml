@@ -10,11 +10,15 @@ theme:
     repo: fontawesome/brands/git-alt
   features:
     #- navigation.instant
-    - navigation.tabs
-    - navigation.sections
+    - content.action.edit
+    - content.action.view
+    #- navigation.tabs
+    #- navigation.sections
     - navigation.footer
-    #- navigation.expand
-    - navigation.top
+   ##- navigation.expand
+    #- navigation.top
+
+
     #- header.autohide    # hides header completely when scrolling down
   palette:
     - scheme: default
@@ -31,8 +35,11 @@ theme:
       accent: orange
 
 extra:
-  # Link to go when logo clicked
-  homepage: https://docs.Admixit.com
+  generator: false
+  copyright: Copyright &copy; 2025 Admix-IT
+  #social:
+  #  - icon: fontawesome/solid/rss
+   #   link: https://Admixit.com
 
 plugins:
   - search
@@ -96,5 +103,8 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
-          
+  - assets/checklist.js
+
+extra_css:
+  - assets/extra.css
  
