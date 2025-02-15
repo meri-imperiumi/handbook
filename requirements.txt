@@ -4,7 +4,7 @@ mkdocs-roamlinks-plugin>=0.2.0
 
 # https://squidfunk.github.io/mkdocs-material/getting-started/#installation
 mkdocs_material>=8.0
-mkdocs-material-extensions==1.0.1
+mkdocs-material-extensions==1.3
 
 # https://pygments.org/
 Pygments==2.9.0
