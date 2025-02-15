@@ -4,7 +4,7 @@
 #pymdown_extensions>=9.9.1
 
 
-mkdocs >= 1.3.4
+mkdocs >= 1.4.2
 
 # https://squidfunk.github.io/mkdocs-material/getting-started/#installation
 mkdocs-material==7.1.8
