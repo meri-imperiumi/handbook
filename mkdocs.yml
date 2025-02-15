@@ -36,9 +36,7 @@ extra:
 plugins:
   - search
   - include-markdown
-  # Enables Macros and jinja2 ttemplates
-  - macros:
-      module_name: macros/helpers
+
   # https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
   - awesome-pages
   # mermaid2 diagrams: https://mermaid-js.github.io/mermaid/#/
