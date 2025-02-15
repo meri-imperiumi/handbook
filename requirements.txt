@@ -18,14 +18,14 @@ pymdown-extensions
 
 # https://github.com/mkdocstrings/mkdocstrings
 # mkdocstrings==0.15.2
-mkdocstrings
+#mkdocstrings
 
 # https://ai2business.github.io/mkdocstrings-sourcelink/
 # mkdocstrings-sourcelink==0.3.2
 
 # https://github.com/fralau/mkdocs-mermaid2-plugin
 # mkdocs-mermaid2-plugin==0.5.1
-mkdocs-mermaid2-plugin
+#mkdocs-mermaid2-plugin
 
 # https://github.com/backstage/mkdocs-monorepo-plugin
 mkdocs-monorepo-plugin==0.4.15
