@@ -1,6 +1,6 @@
 site_name: "AdmixIT"
 site_dir: public
-edit_uri: edit/main/pages/
+edit_uri: edit/master/docs/
 docs_dir: ./docs
 
 theme:
