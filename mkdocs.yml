@@ -2,6 +2,9 @@ site_name: "AdmixIT"
 site_dir: public
 docs_dir: ./docs
 theme:
+
+theme:
+
   name: material
   logo: assets/favicon.png
   homepage: https://Admixit.com
@@ -19,6 +22,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.footer
+    
 extra:
   generator: false
   social:
