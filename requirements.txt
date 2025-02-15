@@ -1,14 +1,16 @@
-mkdocs==1.2.2
+mkdocs>=1.4.2
+
+mkdocs-roamlinks-plugin>=0.2.0
 
 # https://squidfunk.github.io/mkdocs-material/getting-started/#installation
-mkdocs-material==7.1.8
+mkdocs_material>=9.0.4
 mkdocs-material-extensions==1.0.1
 
 # https://pygments.org/
 Pygments==2.9.0
 
 # https://facelessuser.github.io/pymdown-extensions/
-pymdown-extensions==8.2
+pymdown_extensions>=9.9.1
 
 # https://github.com/mkdocstrings/mkdocstrings
 mkdocstrings==0.15.2
