@@ -44,3 +44,19 @@ graph TD
 
 :fontawesome-brands-firefox:{style="color: orange; font-size: 40px;"} 
 
+
+
+++enter++   ++tab++   ++space++   ++arrow-up++  ++arrow-down++   ++page-up++    ++home++    ++backspace++    ++insert++
+
+++alt++     ++right-alt++   ++left-command++    ++right-control++   ++fn++  ++shift++   ++left-shift++
+
+++pipe++   ++backslash++    ++bar++     ++semicolon++   ++tilde++   ++underscore++
+
+++brace-left++      ++brace-right++     ++bracket-left++    ++bracket-right++   ++double-quote++    ++single-quote++ 
+
+++exclam++  ++comma++   ++equal++   ++less++    ++greater++   ++minus++
+
+++1++   ++f9++   ++q++  ++num0++    ++num1++    ++num-lock++
+
+++ctrl+alt+delete++
+
