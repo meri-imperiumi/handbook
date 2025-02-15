@@ -1,10 +1,10 @@
-site_name: "Lille Ø Handbook"
+site_name: "AdmixIT"
 site_dir: public
 docs_dir: ./docs
 theme:
   name: material
   logo: assets/favicon.png
-  homepage: https://lille-oe.de
+  homepage: https://Admixit.com
   favicon: assets/boat.png
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -23,7 +23,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/solid/rss
-      link: https://lille-oe.de
+      link: https://Admixit.com
 extra_css:
   - assets/extra.css
 extra_javascript:
