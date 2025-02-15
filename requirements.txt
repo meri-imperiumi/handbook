@@ -16,12 +16,6 @@ Pygments==2.14
 #==8.2
 pymdown-extensions
 
-The conflict is caused by:
-    The user requested pymdown-extensions>=9.9.1
-    mkdocs-material 9.0.4 depends on pymdown-extensions>=9.9.1
-    mkdocs-mermaid2-plugin 0.5.1 depends on pymdown-extensions>=8.0
-    mkdocstrings 0.15.2 depends on pymdown-extensions<9.0 and >=6.3
-
 # https://github.com/mkdocstrings/mkdocstrings
 # mkdocstrings==0.15.2
 mkdocstrings
