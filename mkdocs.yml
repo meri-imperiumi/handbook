@@ -3,6 +3,11 @@ site_dir: public
 edit_uri: edit/master/docs/
 docs_dir: ./docs
 
+repo_url: https://github.com/AdSecIT/handbook
+repo_name: handbook
+remote_branch: main
+edit_uri: '/docs/'
+
 theme:
   name: 'material'
   favicon: 'assets/favicon.ico'
