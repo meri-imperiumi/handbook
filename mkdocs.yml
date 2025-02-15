@@ -31,11 +31,12 @@ theme:
 
 extra:
   # Link to go when logo clicked
-  homepage: https://Admixit.com
+  homepage: https://docs.Admixit.com
 
 plugins:
   - search
   - include-markdown
+  - roamlinks
 
   # mermaid2 diagrams: https://mermaid-js.github.io/mermaid/#/
   - mermaid2:
