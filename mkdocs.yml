@@ -15,6 +15,7 @@ theme:
     - navigation.footer
     #- navigation.expand
     - navigation.top
+    - content.action.edit
     #- header.autohide    # hides header completely when scrolling down
   palette:
     - scheme: default
