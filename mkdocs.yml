@@ -14,7 +14,7 @@ theme:
     - content.action.view
     #- navigation.tabs
     #- navigation.sections
-    #- navigation.footer
+    - navigation.footer
    ##- navigation.expand
     #- navigation.top
 
