@@ -14,16 +14,24 @@ Pygments==2.14
 
 # https://facelessuser.github.io/pymdown-extensions/
 #==8.2
-pymdown-extensions>=9.9.1
+pymdown-extensions
+
+The conflict is caused by:
+    The user requested pymdown-extensions>=9.9.1
+    mkdocs-material 9.0.4 depends on pymdown-extensions>=9.9.1
+    mkdocs-mermaid2-plugin 0.5.1 depends on pymdown-extensions>=8.0
+    mkdocstrings 0.15.2 depends on pymdown-extensions<9.0 and >=6.3
 
 # https://github.com/mkdocstrings/mkdocstrings
 # mkdocstrings==0.15.2
+mkdocstrings
 
 # https://ai2business.github.io/mkdocstrings-sourcelink/
 # mkdocstrings-sourcelink==0.3.2
 
 # https://github.com/fralau/mkdocs-mermaid2-plugin
-mkdocs-mermaid2-plugin==0.5.1
+# mkdocs-mermaid2-plugin==0.5.1
+mkdocs-mermaid2-plugin
 
 # https://github.com/backstage/mkdocs-monorepo-plugin
 mkdocs-monorepo-plugin==0.4.15
