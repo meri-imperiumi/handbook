@@ -1,12 +1,11 @@
-site_name: MkDocs MagicSpace
-site_url: https://github.com/bluxmit/alnoda-workspaces
-repo_url: https://github.com/bluxmit/alnoda-workspaces
-edit_uri: ""
+site_name: "AdmixIT"
+site_dir: public
+docs_dir: ./docs
 
 theme:
   name: 'material'
   favicon: 'assets/favicon.ico'
-  logo: 'assets/Alnoda-white.svg'
+  logo: 'assets/favicon.ico'
   icon:
     repo: fontawesome/brands/git-alt
   features:
@@ -32,8 +31,7 @@ theme:
 
 extra:
   # Link to go when logo clicked
-  homepage: https://github.com/bluxmit/alnoda-workspaces
-  host_url: http://localhost
+  homepage: https://Admixit.com
 
 plugins:
   - search
@@ -100,41 +98,5 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
-
-# ===========================================================
-# NAVIGATION
-# ===========================================================
-
-nav:
-  - Home: index.md
-  - About: 
-      - Intro: about/intro.md
-      - Motivation: about/motivation.md
-      - Features: about/features.md
-      - Showcase: mkdocs-magicspace/mkdocs/showcase.md
-  - Docs: docs.md
-  - Tutorials:
-      - Get started: tutorials/get-started.md
-      - Change appearance: tutorials/appearance.md
-      - Extended Markdown: 
-        - Intro: tutorials/markdown/intro.md
-        - Start with the basics: tutorials/markdown/basics.md
-        - Hack the markdown: tutorials/markdown/hack-markdown.md
-        - Improve readability with tabs, lists and footnotes: tutorials/markdown/improve-readability.md
-        - Create tables: tutorials/markdown/tables.md
-        - Highlight with blockquotes and admonitions: tutorials/markdown/highlight-what-matters.md
-        - Make it classy with emoji, icons and more: tutorials/markdown/classy-markdown.md
-        - Make images awesome: tutorials/markdown/images.md
-        - Add the code: tutorials/markdown/add-the-code.md
-        - Write formulas: tutorials/markdown/formulas.md
-        - Draw diagrams: tutorials/markdown/diagrams.md
-        - Use templates: tutorials/markdown/templates-macros.md 
-      - Extra features:
-        - Include docs from other repositories: tutorials/extra-features/include.md 
-      - Get website online: 
-        - Build: tutorials/get-online/build-workspace.md
-        - Publish on GitHub Pages: tutorials/get-online/github-pages.md
-        - Serve Workspace: tutorials/get-online/serve-workspace.md
-
           
  
