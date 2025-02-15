@@ -35,9 +35,7 @@ theme:
       accent: orange
 
 extra:
-  # Link to go when logo clicked
- homepage: https://docs.Admixit.com
- generator: false
+  generator: false
   #social:
   #  - icon: fontawesome/solid/rss
    #   link: https://Admixit.com
