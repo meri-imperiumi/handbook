@@ -52,11 +52,11 @@ Packet Loss - If Packets are lost during a call, the user will hear an audio dro
 MOS - Mean Opinion Score - is a measure used to give a call a score. The MOS is expressed as a single rational number, typically in the range 1–5, where 1 is the lowest perceived quality, and 5 is the highest perceived quality. VoIP calls often are in the 3.5 to 4.2 MOS range. The following chart can be used as a guide for VoIP MOS testing and a good comparison for voice quality.  
   
 
-|   |   |
-|---|---|
-|4.3 - 5.0|Very satisfied|
-|4.0 - 4.3|Satisfied|
-|3.6 - 4.0|Some users are satisfied|
-|3.1 - 3.6|Many users dissatisfied|
-|2.6 - 3.1|Nearly all users are dissatisfied|
-|1.0 - 2.6|All users are dissatisfied|
+| Number    | Yeah                              |
+| --------- | --------------------------------- |
+| 4.3 - 5.0 | Very satisfied                    |
+| 4.0 - 4.3 | Satisfied                         |
+| 3.6 - 4.0 | Some users are satisfied          |
+| 3.1 - 3.6 | Many users dissatisfied           |
+| 2.6 - 3.1 | Nearly all users are dissatisfied |
+| 1.0 - 2.6 | All users are dissatisfied        |
