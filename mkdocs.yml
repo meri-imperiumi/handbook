@@ -12,6 +12,7 @@ theme:
     #- navigation.instant
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     #- navigation.expand
     - navigation.top
     #- header.autohide    # hides header completely when scrolling down
