@@ -4,12 +4,25 @@ docs_dir: ./docs
 theme:
 
 theme:
-  name: readthedocs
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - rust
 
+  name: material
+  logo: assets/favicon.png
+  homepage: https://Admixit.com
+  favicon: assets/boat.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.footer
+    
 extra:
   generator: false
   social:
