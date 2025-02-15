@@ -1,4 +1,4 @@
-# Electrics
+# Electrics2
 
 _Lille Ø_ runs both a 12V DC system and a 220V AC system, the latter powered by either shore power or an 500VA onboard inverter.
 
