@@ -31,7 +31,7 @@ theme:
 
 extra:
   # Link to go when logo clicked
-  homepage: https://Admixit.com
+  homepage: https://docs.Admixit.com
 
 plugins:
   - search
