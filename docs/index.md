@@ -37,3 +37,10 @@ graph TD
     D --> B;
     B ---->|No| E[End];
 ```
+
+
+
+:fontawesome-brands-medium: :fontawesome-brands-facebook: :fontawesome-solid-book-open: :fontawesome-regular-snowflake: :material-google-maps: :material-guy-fawkes-mask: :fontawesome-brands-youtube-square: :material-check-circle: :material-arrow-right: :fontawesome-solid-user: :fontawesome-solid-paper-plane: :fontawesome-solid-ship:
+
+:fontawesome-brands-firefox:{style="color: orange; font-size: 40px;"} 
+
