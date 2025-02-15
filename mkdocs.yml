@@ -36,8 +36,8 @@ theme:
 
 extra:
   # Link to go when logo clicked
-  #homepage: https://docs.Admixit.com
- # generator: false
+ homepage: https://docs.Admixit.com
+ generator: false
   #social:
   #  - icon: fontawesome/solid/rss
    #   link: https://Admixit.com
