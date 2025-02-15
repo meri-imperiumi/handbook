@@ -27,3 +27,13 @@ python if x == 1: print("x is 1.")
 | **Table1**    | This is data for table 1 |
 | **Table2**    | This is data for table 2 |
 | **Table3**    | This is data for table 3 |
+
+
+```mermaid
+graph TD
+    A[Start] --> B{Look at Admix Docs?};
+    B -->|Yes| C[OK];
+    C --> D[Rethink];
+    D --> B;
+    B ---->|No| E[End];
+```
