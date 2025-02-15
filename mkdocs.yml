@@ -36,6 +36,7 @@ theme:
 
 extra:
   generator: false
+  copyright: Copyright &copy; 2025 Admix-IT
   #social:
   #  - icon: fontawesome/solid/rss
    #   link: https://Admixit.com
