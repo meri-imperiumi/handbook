@@ -39,8 +39,8 @@ The two battery banks are normally isolated from each other, except for:
 
 The vessel has three fixed solar arrays:
 
-* 240W array (2×120W panel) on the stern arch
-* 120W panel on top of the hatch garage
+* 300W panel on the stern arch
+* 240W array (2×120W panel) on top of the hard dodger
 * 200W array (2×100W panel) on top of the dinghy in the bow
 
 Each of these is connected to its own Victron SmartSolar charge controller.
@@ -78,7 +78,7 @@ The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mount
 
 **Note: stow the hydrogenerator when batteries are full**
 
-### Wind turbine
+### Superwind
 
 Lille Ø carries a rigging-suspended [Superwind 350](https://www.superwind.com/en/) wind generator. This is possible to hoist in the foretriangle when at anchor to generate power when the solar panels aren't producing. It starts producing some power at 11kt wind speed.
 
