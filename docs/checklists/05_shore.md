@@ -12,7 +12,7 @@
 - [ ] Wallet
 - [ ] Keys
 - [ ] Hiking sticks
-- [ ] InReach
+- [ ] InReach (when in remote areas)
 ## Dinghy packing list
 
 - [ ] Anchor
@@ -20,6 +20,8 @@
 - [ ] Towel
 - [ ] Horn
 - [ ] Life jackets
+- [ ] Solar lantern
+- [ ] Dry bags
 
 ## Deploying the dinghy
 
