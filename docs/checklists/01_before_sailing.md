@@ -64,6 +64,7 @@
 - [ ] Stow and tie down dinghy
 - [ ] Stow and tie down dinghy mast and boom
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
+- [ ] Stow Superwind
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
 - [ ] Stow inner forestay if necessary (adjust to *6* if using)

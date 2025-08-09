@@ -78,6 +78,24 @@ The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mount
 
 **Note: stow the hydrogenerator when batteries are full**
 
+### Wind turbine
+
+Lille Ø carries a rigging-suspended [Superwind 350](https://www.superwind.com/en/) wind generator. This is possible to hoist in the foretriangle when at anchor to generate power when the solar panels aren't producing. It starts producing some power at 11kt wind speed.
+
+#### Deploying the wind generator
+
+- [ ] Ensure wind turbine stop switch is in the *Stop* position
+- [ ] Attach the upper bracket to the spinnaker pole topping lift, and with the short strop to the inter forestay
+- [ ] Connect wind turbine power cables using the MC4 connectors
+- [ ] Hoist the turbine to comfortable working height
+- [ ] Attach wind turbine tail
+- [ ] Attach the three blades
+- [ ] Hoist to deployment height (lower bracket just above a raised hand when standing on front hatch)
+- [ ] Attach the forward bridle to the two deck pad eyes
+- [ ] Attach aft bridle to the ring on the bottom of the mast
+- [ ] Tighten topping lift and bridle so that the turbine cannot swing around
+- [ ] Turn stop switch to *Run* position
+
 ### Alternator
 
 The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via an Orion XS DC-DC charger).
