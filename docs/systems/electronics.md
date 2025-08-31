@@ -1,28 +1,6 @@
 # Electronics
 
 _Lille Ø_ has an onboard NMEA 2000 bus as well as a TCP/IP network.
-
-## Network
-
-The boat has two networks:
-
-* `Lille Ø`, a 5GHz network for computers and other regular consumers
-* `Lille Oe`, a 2.4GHz network for Internet-of-Things devices
-
-Both of these networks are served by the [RUTX11](https://wiki.teltonika-networks.com/view/RUTX11) on-board router.
-
-The RUTX11 also provides the boat's primary Internet uplink via LTE. The device has two SIM slots, one for our German SIM and another for a local data SIM when traveling.
-
-Administrative interface for the router can be found in <https://192.168.2.1/>
-### Starlink
-
-The Starlink antenna ("Dishy v2") is mounted on the pushpit with a NOA bracket. The cable runs through the lazarette and starboard storage locker.
-It is powered with a Yaosheng PoE injector.
-
-Starlink can be controlled using the switch in the electrical panel. In a sea state it may take up to 30 minutes for the dishy to acquire an interner connection.
-Starlink consumes about 50W of power.
-
-Our RUTX11 is configured to use Starlink for uplink when available, and use the two LTE SIMs as fallback.
 ## NMEA 2000
 
 The boat's NMEA 2000 (N2K) backbone runs from bow to the technical compartment. The bus contains the following devices:
@@ -80,6 +58,9 @@ Autopilot course computer is in the cockpit near the companionway.
 The autopilot can be set to steer a compass course or a wind angle.
 
 In addition to the course computer, the autopilot can also be controlled remotely via Signal K.
+
+## NMEA0183 stream
+A NMEA0183 formatted stream of key information from the NMEA 2000 bus is broadcasted via UDP on port `2000` in the [[communications#WiFi|boat WiFi network]].
 
 ## Remote monitoring
 
