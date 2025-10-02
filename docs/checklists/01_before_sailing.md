@@ -29,6 +29,9 @@
 - [ ] Put cork on heater exhaust and turn off heater circuit
 - [ ] Hank on and secure staysail
 - [ ] Install jacklines
+- [ ] Install wind blade to the self-steering windvane
+- [ ] Install tiller pilot and tie to pushpit
+- [ ] Check all standing and running rigging for chafe, missing split rings, etc
 - [ ] Ensure emergency contacts know the plan
 - [ ] Enable Priority Data for Starlink
 - [ ] Enable tracking on InReach
@@ -59,9 +62,13 @@
 
 - [ ] Change all shore lines to slip
 - [ ] Remove unnecessary spring lines
-- [ ] Stow cockpit enclosure
+- [ ] Close and latch safari window
+- [ ] Stow sun tarp
 - [ ] Stow bathing ladder
+- [ ] Stow shoe bag
+- [ ] Stow wind scoop
 - [ ] Stow and tie down dinghy
+- [ ] Tie bow solar panels on top of the dinghy
 - [ ] Stow and tie down dinghy mast and boom
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow [[electrics#Superwind|Superwind]]

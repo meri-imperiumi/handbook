@@ -20,20 +20,19 @@
 - [ ] Plug in shore power if using
 - [ ] Deploy [[electrics#FLINsail|FLINsail]] unless on shore power or the winds are too strong
 - [ ] Deploy [[electrics#Superwind|Superwind]] unless on shore power or becalmed
+- [ ] Deploy wind scoop if anchored
 - [ ] Tie main halyard to lazyjacks unless used for FLINsail
 - [ ] Deploy bathing ladder
-- [ ] If cold or rainy weather is expected, set up the cockpit enclosure
 - [ ] Deploy winch covers
 - [ ] Set instruments on sleep mode and deploy covers
 - [ ] Turn VHF off and stow Commandmic
 - [ ] Remove [[navigation#Cockpit chartplotter|chartplotter tablet]]
 - [ ] Open diesel heater exhaust cover
 - [ ] Remove safety knives if in a port with public access
+- [ ] Attach shoe bag to railing
 
 ## Inside the vessel
 
-- [ ] Turn chartplotter tablet charging off
-- [ ] Turn navigational lights off
 - [ ] Disable InReach tracking (if using)
 - [ ] Disable Starlink Priority Data (if using)
 - [ ] Turn logbook printer off (if using)

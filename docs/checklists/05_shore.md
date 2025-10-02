@@ -9,9 +9,11 @@
 - [ ] Towel
 - [ ] Deodorant
 - [ ] Sunscreen
+- [ ] Bug spray
 - [ ] Wallet
 - [ ] Keys
-- [ ] Hiking sticks
+- [ ] Meshtastic node
+- [ ] Hiking sticks (for longer hikes)
 - [ ] InReach (when in remote areas)
 ## Dinghy packing list
 
@@ -22,6 +24,8 @@
 - [ ] Life jackets
 - [ ] Solar lantern
 - [ ] Dry bags
+- [ ] Locking chain
+- [ ] Outboard lock (when using outboard)
 
 ## Deploying the dinghy
 
@@ -31,7 +35,7 @@
 - [ ] Unstrap bow solar panel and move to side deck
 - [ ] Unstrap dinghy from the deck
 - [ ] Prepare a securing line around inner forestay
-- [ ] Place dinghy a-frame on foredeck behind the inner forestay
+- [ ] Remove and stow the a-frame
 - [ ] Lift the stern of the dinghy upright against the inner forestay, stern down bottom facing forward, and tie with securing line
 - [ ] Make a loop with a figure-eight knot into the dinghy painter, about 2m from bow
 - [ ] Attach staysail halyard to the painter
@@ -46,4 +50,4 @@
 - [ ] Start lowering dinghy, using the aft loop to make it level before it hits the water
 - [ ] Detach halyard and tie painter to a cleat
 - [ ] Install bow panel on foredeck, tying to pulpit and the dinghy attachment pad eyes
-- [ ] Prepare dinghy for rowing or sailing
+- [ ] Prepare dinghy for rowing, sailing, or motoring
