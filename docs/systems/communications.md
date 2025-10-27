@@ -42,6 +42,7 @@ The boat carries multiple [Meshtastic](https://meshtastic.org) devices for local
 * Mast repeater `lilm` (ID `2990880859`, public key `QgoqDxKQLEhTKUhvU64dAjRUnNvgQ3OyHFSreSkjEWs=`)
 * Crew node `bgie` (ID `3796358305`, public key `XxcXCCopZB00zqDIu/cvhCRJtzRmgQV27YUvPtcbpHw=`)
 * Crew node `ihmi` (ID `2683209950`, public key `li23KVwMGyoYaLP5ciiFa3aoAF6C0IoYS23q7fb76jU=`)
+* Dinghy tracker `isos` (public key `J1ZQycwWt/qxEe/0NKSOn2tetp8cDfQh/9T3FGhJVjw=`)
 
 The boat node is connected to [signalk-meshtastic](https://github.com/meri-imperiumi/signalk-meshtastic#readme) and transmits vessel telemetry periodically.
 

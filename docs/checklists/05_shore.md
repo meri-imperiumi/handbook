@@ -24,6 +24,7 @@
 - [ ] Life jackets
 - [ ] Solar lantern
 - [ ] Dry bags
+- [ ] Meshtastic tracker
 - [ ] Locking chain
 - [ ] Outboard lock (when using outboard)
 
