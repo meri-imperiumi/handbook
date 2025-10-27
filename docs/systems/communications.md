@@ -11,6 +11,14 @@ The Icom M510 has a command mic located in the cockpit. In normal operations the
 Vessel callsign: `DH8613`
 Vessel MMSI: `211692440`
 
+## HF
+
+The vessel has an Icom IC-718 HF / SSB radio for long-distance communications.
+
+Port-side backstay is set up as an end-fed antenna with isolators and an AH-4 antenna tuner. KISS-SSB is used as the ground plane.
+
+Computer control of the radio is enabled by a SignaLink USB sound card.
+
 ## WiFi
 
 The boat has two networks:
