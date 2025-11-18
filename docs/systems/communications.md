@@ -46,8 +46,7 @@ Our RUTX11 is configured to use Starlink for uplink when available, and to use t
 
 The boat carries multiple [Meshtastic](https://meshtastic.org) devices for local telemetry and communications:
 
-* Boat node `lilo` (ID `2697665940`, public key `NWHDXQEnCam7k5/Uqrg5N4upcD7XzypdG7qYVZyFu2s=`)
-* Mast repeater `lilm` (ID `2990880859`, public key `QgoqDxKQLEhTKUhvU64dAjRUnNvgQ3OyHFSreSkjEWs=`)
+* Boat node `lilo` (ID `2996810856`, public key `NWHDXQEnCam7k5/Uqrg5N4upcD7XzypdG7qYVZyFu2s=`)
 * Crew node `bgie` (ID `3796358305`, public key `XxcXCCopZB00zqDIu/cvhCRJtzRmgQV27YUvPtcbpHw=`)
 * Crew node `ihmi` (ID `2683209950`, public key `li23KVwMGyoYaLP5ciiFa3aoAF6C0IoYS23q7fb76jU=`)
 * Dinghy tracker `isos` (public key `J1ZQycwWt/qxEe/0NKSOn2tetp8cDfQh/9T3FGhJVjw=`)
