@@ -33,7 +33,22 @@ Computer control of the radio is enabled by a SignaLink USB sound card.
 * Open pat at <http://localhost:8080> and establish connection with the _Ready_ button
     * Ensure that the radio actually transmits. You should hear clicking. If not, ensure TX knob is set to high on the SignaLink sound card. [More debug options](https://tigertronics.com/slusbts.htm) on SignaLink website.
 
-Winlink position reports made in pat will also update vessel position on the Lille Ø website. If updates include text, it will end up in the blog stream.
+Note that `pat` can be used also [over telnet](https://winlink.org/content/airmail_telnet_access_winlink) when regular internet connectivity is available.
+#### Position reporting
+
+[Winlink position reports](https://winlink.org/userPositions) made in pat will also update vessel position on the Lille Ø website. If updates include text, it will end up in the blog stream.
+
+The position reports made by Lille Ø can be found in <https://cms.winlink.org:444/maps/PositionReports.aspx?callsign=DO7HB&title=Position%20Reports%20for%20DO7HB>.
+
+#### Weather data
+
+Weather information can be requested [from Saildocs](https://saildocs.com/gribinfo) in GRIB format that will work in applications like LuckGrib.
+
+For example, to get a coarse ECMWF GRIB for the Panama area, mail `query@saildocs.com` with the message body:
+
+```
+send ecmwf:8N,12N,70W,90W|2,2|24,48,72|WIND,PRMSL,WAVES
+```
 ## WiFi
 
 The boat has two networks:
