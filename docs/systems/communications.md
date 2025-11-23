@@ -31,7 +31,7 @@ Computer control of the radio is enabled by a SignaLink USB sound card.
 * Start pat interface with `pat http`
 * Start _CrossOver_ and launch _Vara HF_ (and/or _Ardop_)
 * Open pat at <http://localhost:8080> and establish connection with the _Ready_ button
-    * Ensure that the radio actually transmits. You should hear clicking
+    * Ensure that the radio actually transmits. You should hear clicking. If not, ensure TX knob is set to high on the SignaLink sound card. [More debug options](https://tigertronics.com/slusbts.htm) on SignaLink website.
 
 Winlink position reports made in pat will also update vessel position on the Lille Ø website. If updates include text, it will end up in the blog stream.
 ## WiFi
