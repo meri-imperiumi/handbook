@@ -33,15 +33,22 @@ The RUTX11 also provides the boat's primary Internet uplink via LTE. The device 
 Administrative interface for the router can be found in <https://192.168.2.1/>
 ### Starlink
 
-The Starlink antenna ("Dishy v2") is mounted on the pushpit with a NOA bracket. The cable runs through the lazarette and starboard storage locker.
+The Starlink Mini antenna is mounted on the solar arch with a NOA bracket. The combined power and ethernet cable runs through the lazarette and starboard storage locker.
 
-The Starlink router needs to be plugged into an AC power socket and the inverter turned on in [Venus OS](http://venus.local).
+There is a 12V-to-24V DC-DC converter powering the Starlink inside the electrical cabinet. Starlink is powered using its own circuit.
 
-In a sea state it may take up to 30 minutes for the dishy to acquire an interner connection.
-Starlink consumes about 50W of power.
+In a sea state it may take up to 30 minutes for the dishy to acquire an internet connection.
+Starlink consumes about 20W of power.
 
 Our RUTX11 is configured to use Starlink for uplink when available, and to use the two LTE SIMs as fallback.
+#### Ocean data
 
+We use a Global Roam plan with the Starlink, giving unlimited Internet in coastal areas in countries that support it.
+
+For offshore use, we need to enable the metered _Ocean Data_ feature. This is done in the _Account -> Subscription -> Data Usage_ screen of the Starlink app.
+#### Backup Starlink
+
+There is a second Starlink Mini device in its original packaging in the technical compartment, stored together with a power cable that works from the 12V cigarette lighter socket. This device should be able to get online for 1h after initial start-up to make it possible to enable a plan for it.
 ## Meshtastic
 
 The boat carries multiple [Meshtastic](https://meshtastic.org) devices for local telemetry and communications:
