@@ -19,6 +19,21 @@ Port-side backstay is set up as an end-fed antenna with isolators and an AH-4 an
 
 Computer control of the radio is enabled by a SignaLink USB sound card.
 
+### Email over HF radio
+
+* Check local rules for amateur radio usage (maritime mobile uses German rules, coastal uses local rules. [DARC has a convenient list](darc.de/der-club/referate/ausland/funken-im-ausland/cept-laenderliste/) of CEPT visiting rules)
+* Turn the _HF SSB_ circuit on
+* Turn the radio on
+* Connect the USB hub on the navigation table to the MacBook Air
+* Ensure that MacBook Air can see the _USB AUDIO CODEC_ sound interface
+    * If not, push the button on the KVM inside the table to switch USB from the Raspberry Pi to the MacBook
+* Start rig control interface with `rigctld -m 3013 -r /dev/cu.PL2303G-USBtoUART11130 -t 4532 -s 4800 -vvv`
+* Start pat interface with `pat http`
+* Start _CrossOver_ and launch _Vara HF_ (and/or _Ardop_)
+* Open pat at <http://localhost:8080> and establish connection with the _Ready_ button
+    * Ensure that the radio actually transmits. You should hear clicking
+
+Winlink position reports made in pat will also update vessel position on the Lille Ø website. If updates include text, it will end up in the blog stream.
 ## WiFi
 
 The boat has two networks:
