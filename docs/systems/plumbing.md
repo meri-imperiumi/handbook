@@ -66,4 +66,4 @@ The boat is equipped with three bilge pumps:
 
 * Manual large capacity pump in the cockpit *(handle in the cockpit locker)*
 * Large capacity electric pump in the engine compartment *(switch in navigation station footwell)*
-* Small capacity electric pump in the engine compartment *(switch in electric panel)*
+* ~~Small capacity electric pump in the engine compartment *(switch in electric panel)~~
