@@ -1,4 +1,7 @@
 public/
 docs/.obsidian/workspace.json
+docs/.obsidian/workspace-mobile.json
 .DS_Store
 venv/
+.trash/
+.stfolder/
