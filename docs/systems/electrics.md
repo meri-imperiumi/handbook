@@ -71,9 +71,10 @@ The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mount
 
 #### Deploying the hydrogenerator
 
-- [ ] Turn on the hydrogenerator controller (switch on the rear bulkhead starboard of the companionway)
+- [ ] Turn on the hydrogenerator controller (switch in the navigation console in the cockpit)
 - [ ] Untie the hydrogenerator control rope and lower it gently into water
 - [ ] Tie the control rope so that the generator is upright
+    - [ ] The generator will produce a bit more if slightly off-center out of the turbulent water from the rudder
 - [ ] Check from controller app or VictronConnect that hydrogenerator is producing power
 
 **Note: stow the hydrogenerator when batteries are full**

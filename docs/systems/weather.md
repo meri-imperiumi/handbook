@@ -23,4 +23,3 @@ Download the latest grib files for the area of interest before the passage and w
 For longer routes, make sure to also consult the [pilot charts](https://www.prevailing-winds.de/) for the current month and region.
 
 
-
