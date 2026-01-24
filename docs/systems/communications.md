@@ -25,9 +25,11 @@ Computer control of the radio is enabled by a SignaLink USB sound card.
 * Turn the _HF SSB_ circuit on
 * Turn the radio on
 * Connect the USB hub on the navigation table to the MacBook Air
+* Connect the USB hub to power
 * Ensure that MacBook Air can see the _USB AUDIO CODEC_ sound interface
-    * If not, push the button on the KVM inside the table to switch USB from the Raspberry Pi to the MacBook
+    * If not, push the KVM remore button to switch USB from the Raspberry Pi to the MacBook
 * Start rig control interface with `rigctld -m 3013 -r /dev/cu.PL2303G-USBtoUART11130 -t 4532 -s 4800 -vvv`
+	* Note: the USB device path changes occasionally
 * Start pat interface with `pat http`
 * Start _CrossOver_ and launch _Vara HF_ (and/or _Ardop_)
 * Open pat at <http://localhost:8080> and establish connection with the _Ready_ button
