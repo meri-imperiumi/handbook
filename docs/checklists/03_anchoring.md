@@ -2,7 +2,7 @@
 
 _Lille Ø_ is equipped with three anchors:
 
-* **Rocna Vulcan 15** bow anchor with 40m of 8mm chain and 30m rope
+* **Rocna Vulcan 15** bow anchor with 50m of 8mm chain and 50m additional 8mm chain in the bilge
 * **Bruce 15kg** stern anchor with 5m of 8mm chain and 45m of webbing line
 * **Fortress Fx-11** kedge anchor
 
@@ -20,6 +20,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Remove the safety shackle from anchor
 - [ ] Uncoil and prepare the anchor trip line (if using)
 - [ ] Prepare appropriate anchor chain on deck (about 4✕ depth)
+    - [ ] If needed, bring the extra chain on deck and shackle to the main anchor chain
 - [ ] Prepare for setting up anchor alarm (log [into Signal K](http://192.168.2.105/@signalk/freeboard-sk/) etc)
 
 ### Setting the anchor
