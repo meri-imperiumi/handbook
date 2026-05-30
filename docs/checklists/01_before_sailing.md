@@ -42,7 +42,6 @@
 ## Inside the vessel
 
 * [ ] Close and lock front hatch
-* [ ] Close heads seacock
 * [ ] Ensure all cabinets are closed
 * [ ] Ensure no debris on cabin surfaces
 * [ ] Stow saloon table
