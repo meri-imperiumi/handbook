@@ -36,6 +36,7 @@
 - [ ] Enable Priority Data for Starlink
 - [ ] Enable tracking on InReach
 - [ ] Turn logbook printer on
+- [ ] Turn watch schedule on [in Signal K scheduler](http://lille-oe-pi.local/signalk-watch-schedule/)
 - [ ] Get pizza for the first watches if available 
 - [ ] Make a thermos of decaf tea in cold weather
 

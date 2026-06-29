@@ -36,6 +36,7 @@
 - [ ] Disable InReach tracking (if using)
 - [ ] Disable Starlink Priority Data (if using)
 - [ ] Turn logbook printer off (if using)
+- [ ] Stop [Signal K watch scheduler](http://lille-oe-pi.local/signalk-watch-schedule/) (if using)
 - [ ] Open front hatch for ventilation
 - [ ] Open heads seacock
 - [ ] Install engine frost guard (if needed)
