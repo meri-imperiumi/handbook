@@ -73,6 +73,7 @@
 - [ ] Stow [[electrics#Superwind|Superwind]]
 - [ ] Stow anchor daymark
 - [ ] Stow "silencer fender" from mast
+- [ ] Secure anchor chain floats
 - [ ] Stow inner forestay if necessary (adjust to *6* if using)
 - [ ] [[sails#Setting up the Parasailor|Set up Parasailor]] if planned to be used
 - [ ] Remove headsail furler safety line
