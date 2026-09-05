@@ -59,7 +59,7 @@ Setup is the following:
 
 - [ ] Attach whisker pole uphaul to the end of the pole
 - [ ] Uncoil forward and aft guy lines attached to the pole
-- [ ] For staysail, install the extra "poling out sheet"
+- [ ] Install the extra "poling out sheet"
 - [ ] Lower the whisker pole so that it is easily accessible
 - [ ] Hook the sheet through the whisker pole jaws
 - [ ] Hoist and tension the pole using the uphaul and the guys. Pole should be completely immobilised

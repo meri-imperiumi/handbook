@@ -13,6 +13,7 @@
 - [ ] Wallet
 - [ ] Keys
 - [ ] Meshtastic node
+- [ ] Hammock
 - [ ] Hiking sticks (for longer hikes)
 - [ ] InReach (when in remote areas)
 ## Dinghy packing list

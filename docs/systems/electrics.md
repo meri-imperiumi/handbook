@@ -1,6 +1,6 @@
 # Electrics
 
-_Lille Ø_ runs both a 12V DC system and a 220V AC system, the latter powered by either shore power or an 500VA onboard inverter.
+_Lille Ø_ runs both a 12V DC system and a 220V AC system, the latter powered by either shore power or an 2000VA onboard inverter.
 
 The battery main switch is located under the navigation station bench.
 
@@ -18,9 +18,9 @@ The primary electrical consumers on the boat are:
 * Diesel heater
 * Autopilot
 * Personal computers
+* Watermaker
 
-In situations where batteries are running low, it is a good idea to disable some or all of these. Actual consumption is visible in VictronConnect or VRM.
-
+In situations where batteries are running low, it is a good idea to disable some or all of these. Actual consumption is visible in VRM or the [Energy Predictor](http://lille-oe-pi.local/@meri-imperiumi/signalk-energy-pred ictor/) app.
 ## Storage
 
 The boat has two battery banks:
@@ -65,6 +65,8 @@ The boat carries a deployable 300W [FLINsail](https://flin-solar.de). This is a 
 
 **Note: The maximum wind speed for deploying the FLINsail is 18kt**
 
+The [Energy Predictor](http://lille-oe-pi.local/@meri-imperiumi/signalk-energy-predictor) app can provide stowing or deployment recommendations based on the forecast and current location's wind protection factor. 
+
 ### Hydrogenerator
 
 The vessel has a [SailingGen Hydrogenerator](https://sailnsea.1a-shops.eu) mounted in the stern bracket.  This can be used to produce power when sailing faster than 4kt. At around 5kt of speed through water it covers the boat's basic power consumption.
@@ -101,7 +103,7 @@ Lille Ø carries a rigging-suspended [Superwind 350](https://www.superwind.com/e
 
 The [[engine]] has been upgraded with a **A2120S** 80A alternator. This charges the starter battery circuit (and house bank via an Orion XS DC-DC charger).
 
-When the engine is running we get about 200W of charge into the house bank.
+When the engine is running we get about 400W of charge into the house bank.
 
 ### Shore power charger
 
@@ -126,5 +128,6 @@ The boat's electrical system can be monitored via:
 
 * [Victron VRM](https://vrm.victronenergy.com) remote monitoring system
 * [Electricity Grafana dashboard](http://lille-oe-pi.local:3000/d/6EmAzaA7k/electricity?orgId=1&refresh=30s) on board
+* [Energy Predictor](http://lille-oe-pi.local/@meri-imperiumi/signalk-energy-predictor) webapp on board
 
 

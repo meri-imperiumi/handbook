@@ -12,16 +12,19 @@
 - [ ] Check diesel tank level
 - [ ] Check engine oil level
 - [ ] Check engine coolant level
+- [ ] Check that large bilge pump is operational
 - [ ] Check that all keys are in their place
 
 ### Additional preparations when going offshore
 
 - [ ] Download [[weather#Offshore weather|GRIB files]] and [[navigation#Planning an offshore route|calculate latest weather route]]
 - [ ] Download charts for the area in Orca
+- [ ] [Download corridor charts](http://lille-oe-pi.local/@meri-imperiumi/signalk-corridor-tile-downloader/) in Signal K
 - [ ] Download any media planned to be consumed while offshore
 - [ ] Charge all battery packs and flashlights
 - [ ] Charge handheld VHF
 - [ ] Charge InReach
+- [ ] Verify that InReach GRIB and blog system works by sending a `STATUS` query
 - [ ] Set up sea bunk(s) with lee cloth
 - [ ] Fill alcohol stove with fuel
 - [ ] Stow bow anchor in anchor locker
@@ -33,7 +36,7 @@
 - [ ] Install tiller pilot and tie to pushpit
 - [ ] Check all standing and running rigging for chafe, missing split rings, etc
 - [ ] Ensure emergency contacts know the plan
-- [ ] Enable Priority Data for Starlink
+- [ ] Enable Ocean Mode for Starlink
 - [ ] Enable tracking on InReach
 - [ ] Turn logbook printer on
 - [ ] Turn watch schedule on [in Signal K scheduler](http://lille-oe-pi.local/signalk-watch-schedule/)
@@ -81,6 +84,7 @@
 - [ ] Remove headsail furler safety line
 - [ ] Install headsail sheets 
 - [ ] Remove mainsail sun cover
+- [ ] Close mast steps
 - [ ] Attach mainsail halyard to the sail head
 - [ ] Hoist flag
 - [ ] Move main sheets to pad eyes

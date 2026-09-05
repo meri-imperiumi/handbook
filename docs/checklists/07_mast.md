@@ -1,8 +1,10 @@
 # Dropping the mast
 
 - [ ] Remove Genoa from roller and pack away
-- [ ] Turn off VHF and AIS circuit
+- [ ] Ensure availability to a large set of small strings to secure things
+- [ ] Turn off *VHF/AIS* and *HF/SSB* circuits
 - [ ] Unplug mast cables and bring to deck
+- [ ] Remove HF radio antenna cable from backstay, coil the cable and stow the offset pipe pieces
 - [ ] Remove roller furling line
 - [ ] Drop anchor to sea level
 - [ ] Move spinnaker halyard to mast
@@ -11,9 +13,9 @@
 - [ ] Remove mainsail from mast track
 - [ ] Remove and stow spinnaker boom
 - [ ] Remove and stow Rodkicker
-- [ ] Replace lazy jacks with messenger lines
+- [ ] Remove lazy jacks
 - [ ] Remove and stow boom using main halyard and topping lift
-- [ ] Remove aft solar panels
+- [ ] Remove aft solar panel
 - [ ] Lower the windvane servo rudder into water
 - [ ] Attach shroud bag to mast
 - [ ] Remove and stow lower shrouds
@@ -29,3 +31,7 @@
 - [ ] Tie shrouds etc to mast
 - [ ] Hoist anchor
 - [ ] Hoist windvane servo rudder
+- [ ] Attach emergency VHF antenna to the mast and plug it in
+- [ ] Turn *VHF/AIS* circuit on
+
+Hoisting the mast is effectively doing this list in reverse.

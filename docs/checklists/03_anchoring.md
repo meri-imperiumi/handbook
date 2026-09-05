@@ -49,7 +49,7 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Hoist the anchor daymark with spinnaker halyard
 - [ ] Follow the [[04_after_sailing|after sailing]] checklist
 - [ ] Keep engine or the genoa ready for use in case of emergencies
-- [ ] Ensure that the Automatic Lights circuit is powered so that Signal K can turn the anchor light on as needed
+- [ ] Ensure that the *Automatic Lights* circuit is powered so that Signal K can turn the anchor light on as needed
 
 ## Scandinavian mooring
 

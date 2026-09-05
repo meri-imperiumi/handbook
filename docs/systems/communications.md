@@ -51,6 +51,11 @@ For example, to get a coarse ECMWF GRIB for the Panama area, mail `query@saildoc
 ```
 send ecmwf:8N,12N,70W,90W|2,2|24,48,72|WIND,PRMSL,WAVES
 ```
+#### Blog posts 
+
+It is possible to publish blog posts via Winlink email. Write the blog post in Obsidian as normal and sync via Syncthing. Then open the Signal K [Offshore Blogging](http://lille-oe-pi.local/@meri-imperiumi/signalk-offshore-blogging/) app.
+
+Select the post you want to publish and *Encode*. The generated Winlink segment contains a cryptographically signed version of the post that can be copied to an email and sent to our blogging address.
 ## WiFi
 
 The boat has two networks:
@@ -79,9 +84,11 @@ Starlink consumes about 20W of power.
 Our RUTX11 is configured to use Starlink for uplink when available, and to use the two LTE SIMs as fallback.
 ### Ocean data
 
-We use a Global Roam plan with the Starlink, giving unlimited Internet in coastal areas in countries that support it.
+We use a Personal Maritime plan with the Starlink, giving unlimited Internet in coastal areas worldwide. 
 
 For offshore use, we need to enable the metered _Ocean Data_ feature. This is done in the _Account -> Subscription -> Data Usage_ screen of the Starlink app.
+
+Ocean Data is paid by the Gb, and devices ought to have data saving enabled to conserve budget.
 ### Backup Starlink
 
 There is a second Starlink Mini device in its original packaging in the technical compartment, stored together with a power cable that works from the 12V cigarette lighter socket. This device should be able to get online for 1h after initial start-up to make it possible to enable a plan for it.
@@ -95,7 +102,26 @@ The boat carries multiple [Meshtastic](https://meshtastic.org) devices for local
 * Dinghy tracker `isos` (public key `J1ZQycwWt/qxEe/0NKSOn2tetp8cDfQh/9T3FGhJVjw=`)
 
 The boat node is connected to [signalk-meshtastic](https://github.com/meri-imperiumi/signalk-meshtastic#readme) and transmits vessel telemetry periodically.
-
 ## Inreach
 
 Lille Ø is equipped with a Garmin Inreach Mini 2. This device can be used for satellite text messaging, as well as sharing the vessel location when offshore.
+### Blogging with InReach
+
+- [ ] Write blog post in Obsidian as normal and let Syncthing synchronize it to the server
+- [ ] Open the Signal K [Offshore Blogging](http://lille-oe-pi.local/@meri-imperiumi/signalk-offshore-blogging/) app
+- [ ] Choose the date to publish
+- [ ] Select to publish with or without images
+- [ ] Copy each message to InReach app and send to our blogging address
+- [ ] Once all chunks have arrived and the post published, there will be a confirmation message from the server
+
+When the boat has broadband internet next time the post will get automatically updated with the normal high-res pictures, track, and logbook metadata.
+
+### Weather data via InReach
+
+- [ ] Open the Signal K [Offshore Blogging](http://lille-oe-pi.local/@meri-imperiumi/signalk-offshore-blogging/) app
+- [ ] Select the GRIB parameters you want to query
+- [ ] Copy the generated Saildocs query to the InReach app and send to our blogging address
+- [ ] Once response chunks arrive, they can be copy pasted to the interface in the Offshore Blogging app
+- [ ] When all chunks have arrived, press the *Reassemble* button 
+- [ ] The resulting GRIB can be downloaded to any computer or explored in the Signal K [Weather Map](http://lille-oe-pi.local/signalk-weather-map/)
+

@@ -13,8 +13,6 @@ The large capacity electric bilge pump outputs via a through-hull in the stern o
 
 The raw water intake seacock is located in the engine space. It feeds the engine raw water impeller, as well as the galley sea water tap and the watermaker.
 
-**Note: the bathroom sink seacock must be closed when sailing, it can flow in when heeling over.**
-
 ## Freshwater system
 
 The boat has a 200l freshwater tank situated under the v-berth. The deck fill is in the bow.
@@ -23,11 +21,10 @@ Fresh water may also be filled inside the cabin using the electric pump and hose
 
 The freshwater system is pressurized with a Whale pump located under the v-berth.
 
-There are three outlets:
+There are two outlets:
 
 * Bathroom sink tap
 * Galley sink regular tap
-* Galley sink filtered tap (filter under the sink)
 
 There is a spare freshwater pump on board. In case of major electrical system failure, the freshwater system can be rerouted to use the galley salt water foot pump.
 
@@ -41,7 +38,7 @@ The raw water system has one intake in the engine space. There is a strainer aft
 * Galley sea water tap (separate shut-off under galley sink)
 * Watermaker (separate shut-off under galley sink)
 
-The sea water tap and the watermaker should only be opened in clean sea water. The sea water system is pressurised, with the power button under the sink.
+The sea water tap and the watermaker should only be opened in clean sea water. The sea water system is pressurised and gets its power from the *Watermaker* circuit.
 
 **Note: watermaker and galley freshwater tap should be closed when running the engine to prevent air from entering the system**
 
@@ -53,7 +50,7 @@ The sea water tap and the watermaker should only be opened in clean sea water. T
 - [ ] Run the watermaker output hose into the sink
 - [ ] Start watermaker by turning on the circuit and pressing the power button under the sink
 - [ ] Run watermaker for about 10 minutes, then run the output into a cup
-- [ ] Test the water quality with TDS meter (should be <300ppm)
+- [ ] Test the water quality with TDS meter (should be <400ppm)
 - [ ] Taste test the water
 - [ ] If passing, move output hose into a canister
 - [ ] Log watermaker start time and ppm

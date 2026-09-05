@@ -18,7 +18,7 @@
 - [ ] Install and tighten inner forestay
 - [ ] Coil and stow all lines
 - [ ] Plug in shore power if using
-- [ ] Deploy [[electrics#FLINsail|FLINsail]] unless on shore power or the winds are too strong
+- [ ] Deploy [[electrics#FLINsail|FLINsail]] unless on shore power or the winds are too strong (check [Energy Predictor](http://lille-oe-pi.local/@meri-imperiumi/signalk-energy-predictor/#mode=week&date=2026-09-04) forecast)
 - [ ] Deploy [[electrics#Superwind|Superwind]] unless on shore power or becalmed
 - [ ] Deploy wind scoop if anchored
 - [ ] Tie main halyard to lazyjacks unless used for FLINsail
@@ -34,7 +34,7 @@
 ## Inside the vessel
 
 - [ ] Disable InReach tracking (if using)
-- [ ] Disable Starlink Priority Data (if using)
+- [ ] Disable Starlink Ocean Mode (if using)
 - [ ] Turn logbook printer off (if using)
 - [ ] Stop [Signal K watch scheduler](http://lille-oe-pi.local/signalk-watch-schedule/) (if using)
 - [ ] Open front hatch for ventilation
