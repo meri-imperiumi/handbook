@@ -29,13 +29,14 @@ Bow anchoring is used in most anchorages outside of Scandinavia.
 - [ ] Approach the anchoring spot slowly towards the wind
 - [ ] Stop the vessel
 - [ ] Drop anchor until it hits the bottom
-- [ ] Enable [anchor alarm](http://192.168.2.105/signalk-anchoralarm-plugin/)
+- [ ] Enable [anchor alarm](http://192.168.2.105/hoekens-anchor-alarm/)
 - [ ] Toss out the anchor buoy (if using)
 - [ ] Start backing the boat and release chain slowly
+- [ ] Install chain floats every 1.5× of depth (if using)
 - [ ] Once the correct scope is reached, lock the chain
 - [ ] Let the anchor set for a short moment
 - [ ] Then start backing again, slowly increasing power
-- [ ] Check that the anchor holds (transits to landmarks, SOG 0kt when chain tight)
+- [ ] Check that the anchor holds (transits to landmarks, SOG 0kt when chain tight, no vibrations on chain)
 - [ ] When setting anchor with engine, about 1500 RPM is a good number to reach
 - [ ] Pull up and re-anchor if the anchor doesn't hold
 

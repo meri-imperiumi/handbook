@@ -46,13 +46,13 @@
 * [ ] Ensure all cabinets are closed
 * [ ] Ensure no debris on cabin surfaces
 * [ ] Stow saloon table
-* [ ] Stow dinghy oars and parts
 * [ ] Prepare lifevests
 * [ ] Fill water bottles and place them in cockpit holder
 * [ ] Turn off heater
 * [ ] Turn chartplotter tablet charging on
 * [ ] Install [[navigation#Cockpit chartplotter|chartplotter tablet]]
 * [ ] Install VHF Commandmic
+* [ ] Turn on VHF
 * [ ] Remove engine frost guard (if using)
 * [ ] Stow dehumidifier (if using)
 * [ ] Ensure engine seacock is open
@@ -68,8 +68,9 @@
 - [ ] Stow shoe bag
 - [ ] Stow wind scoop
 - [ ] Stow and tie down dinghy
+- [ ] Stow dinghy oars and parts
 - [ ] Tie bow solar panels on top of the dinghy
-- [ ] Stow and tie down dinghy mast and boom
+- [ ] Stow and tie down dinghy mast and boom bag
 - [ ] Stow [[electrics#FLINsail|FLINsail]]
 - [ ] Stow [[electrics#Superwind|Superwind]]
 - [ ] Stow anchor daymark
@@ -86,7 +87,6 @@
 - [ ] Remove winch covers
 - [ ] Remove instrument covers
 - [ ] Check whether instruments are responsive. If not, [[electronics#Rebooting NMEA2000|reboot NMEA2000]]
-- [ ] Turn on VHF
 - [ ] Stow shore power cable
 - [ ] Install safety knives
 - [ ] Check that inside team is ready

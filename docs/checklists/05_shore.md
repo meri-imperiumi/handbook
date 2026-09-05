@@ -3,7 +3,7 @@
 ## Backpack packing list
 
 - [ ] Hiking shoes and socks
-- [ ] Landing shoes
+- [ ] Landing shoes (that can get wet)
 - [ ] Sunglasses
 - [ ] Water
 - [ ] Towel
@@ -32,11 +32,10 @@
 
 - [ ] Prepare dinghy attachment bolts
 - [ ] Prepare dinghy thwart
-- [ ] Deploy swim ladder
 - [ ] Unstrap bow solar panel and move to side deck
 - [ ] Unstrap dinghy from the deck
 - [ ] Prepare a securing line around inner forestay
-- [ ] Remove and stow the a-frame
+- [ ] Remove and stow the a-frame (tied to a shroud)
 - [ ] Lift the stern of the dinghy upright against the inner forestay, stern down bottom facing forward, and tie with securing line
 - [ ] Make a loop with a figure-eight knot into the dinghy painter, about 2m from bow
 - [ ] Attach staysail halyard to the painter
@@ -50,5 +49,5 @@
 - [ ] Push dinghy outboard of the vessel
 - [ ] Start lowering dinghy, using the aft loop to make it level before it hits the water
 - [ ] Detach halyard and tie painter to a cleat
-- [ ] Install bow panel on foredeck, tying to pulpit and the dinghy attachment pad eyes
+- [ ] Install bow solar panel on foredeck, tying to pulpit and the dinghy attachment pad eyes
 - [ ] Prepare dinghy for rowing, sailing, or motoring
